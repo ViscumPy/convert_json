@@ -97286,5 +97286,261 @@
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true
         }
+    },
+    {
+        "id": "45151be961a7a053",
+        "title": "[協]Ultimate taste",
+        "type": "UTAGE",
+        "comment": "みんなでFull Flavor!",
+        "ds": [
+            13.6,
+            13.6
+        ],
+        "level": [
+            "13+?",
+            "13+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[協]Ultimate taste",
+            "artist": "ぱらどっと",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20250521",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    {
+        "id": "4911d20e27cad7a0",
+        "title": "Help me, ERINNNNNN!!",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            10.7,
+            13.3
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Help me, ERINNNNNN!!",
+            "artist": "ビートまりお",
+            "genre": "東方Project",
+            "bpm": 0,
+            "release_date": "20250521",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    {
+        "id": "6cf3e3f842e52194",
+        "title": "超最終鬼畜妹フランドール・S",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.2,
+            12.6,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "超最終鬼畜妹フランドール・S",
+            "artist": "ビートまりお×まろん",
+            "genre": "東方Project",
+            "bpm": 0,
+            "release_date": "20250521",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    {
+        "id": "7fa4a3f8246030ce",
+        "title": "Destined Marionette",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            8.2,
+            12.5,
+            14.2
+        ],
+        "level": [
+            "4",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Destined Marionette",
+            "artist": "ビートまりお",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20250521",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
     }
 ]
