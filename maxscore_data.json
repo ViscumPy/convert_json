@@ -85519,7 +85519,7 @@
         {
             "achievements": 101.0,
             "ds": 6.0,
-            "dxScore": 0,
+            "dxScore": 825,
             "fc": "app",
             "fs": "fdxp",
             "level": "6",
@@ -85527,14 +85527,14 @@
             "level_label": "Basic",
             "ra": 135,
             "rate": "sssp",
-            "song_id": "bf9cd35017832f93",
+            "song_id": "11860",
             "title": "MYTH Re：LEASE",
             "type": "DX"
         },
         {
             "achievements": 101.0,
             "ds": 8.0,
-            "dxScore": 0,
+            "dxScore": 1263,
             "fc": "app",
             "fs": "fdxp",
             "level": "8",
@@ -85542,14 +85542,14 @@
             "level_label": "Advanced",
             "ra": 180,
             "rate": "sssp",
-            "song_id": "bf9cd35017832f93",
+            "song_id": "11860",
             "title": "MYTH Re：LEASE",
             "type": "DX"
         },
         {
             "achievements": 101.0,
             "ds": 12.9,
-            "dxScore": 0,
+            "dxScore": 2286,
             "fc": "app",
             "fs": "fdxp",
             "level": "12+",
@@ -85557,14 +85557,14 @@
             "level_label": "Expert",
             "ra": 290,
             "rate": "sssp",
-            "song_id": "bf9cd35017832f93",
+            "song_id": "11860",
             "title": "MYTH Re：LEASE",
             "type": "DX"
         },
         {
             "achievements": 101.0,
             "ds": 14.5,
-            "dxScore": 0,
+            "dxScore": 3333,
             "fc": "app",
             "fs": "fdxp",
             "level": "14",
@@ -85572,7 +85572,7 @@
             "level_label": "Master",
             "ra": 326,
             "rate": "sssp",
-            "song_id": "bf9cd35017832f93",
+            "song_id": "11860",
             "title": "MYTH Re：LEASE",
             "type": "DX"
         }

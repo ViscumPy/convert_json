@@ -97544,7 +97544,7 @@
         }
     },
     {
-        "id": "bf9cd35017832f93",
+        "id": "11860",
         "title": "MYTH Re：LEASE",
         "type": "DX",
         "comment": "",
@@ -97564,50 +97564,50 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    221,
+                    25,
+                    8,
+                    12,
+                    9
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    337,
+                    27,
+                    10,
+                    45,
+                    2
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    553,
+                    45,
+                    61,
+                    25,
+                    78
                 ],
-                "charter": ""
+                "charter": "Luxizhel"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    627,
+                    63,
+                    57,
+                    64,
+                    300
                 ],
-                "charter": ""
+                "charter": "サファ太 Vs. Safari Vs. Saf Vs. モリモリさふぁた"
             }
         ],
         "basic_info": {
             "title": "MYTH Re：LEASE",
             "artist": "打打だいず Vs. Tanchiky Vs. uma Vs. モリモリあつし",
             "genre": "ゲーム＆バラエティ",
-            "bpm": 0,
+            "bpm": 202,
             "release_date": "20250530",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true
