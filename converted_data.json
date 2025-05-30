@@ -97542,5 +97542,75 @@
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true
         }
+    },
+    {
+        "id": "bf9cd35017832f93",
+        "title": "MYTH Re：LEASE",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.0,
+            12.9,
+            14.5
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "MYTH Re：LEASE",
+            "artist": "打打だいず Vs. Tanchiky Vs. uma Vs. モリモリあつし",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20250530",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
     }
 ]
