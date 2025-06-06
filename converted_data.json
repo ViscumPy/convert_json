@@ -17804,6 +17804,76 @@
         }
     },
     {
+        "id": "10367",
+        "title": "Dragoon",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            8.0,
+            11.0,
+            13.7
+        ],
+        "level": [
+            "4",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "Dragoon",
+            "artist": "Shandy kubota",
+            "genre": "maimai",
+            "bpm": 175,
+            "release_date": "20250606",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    {
         "id": "374",
         "title": "アンハッピーリフレイン",
         "type": "SD",
@@ -97609,6 +97679,216 @@
             "genre": "ゲーム＆バラエティ",
             "bpm": 202,
             "release_date": "20250530",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    {
+        "id": "e2995fcfaec824da",
+        "title": "抜錨",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.7,
+            10.7,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "抜錨",
+            "artist": "ナナホシ管弦楽団",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 0,
+            "release_date": "20250606",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    {
+        "id": "d5b7dac7c24b8df6",
+        "title": "ゼロトーキング",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.0,
+            9.8,
+            13.2
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "ゼロトーキング",
+            "artist": "はるまきごはん",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 0,
+            "release_date": "20250606",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true
+        }
+    },
+    {
+        "id": "dc086a7d603b1832",
+        "title": "クーネル・エンゲイザー",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            9.7,
+            12.8
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "クーネル・エンゲイザー",
+            "artist": "電ǂ鯨",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 0,
+            "release_date": "20250606",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true
         }
