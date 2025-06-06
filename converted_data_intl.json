@@ -89652,5 +89652,285 @@
             "from": "maimai でらっくす PRiSM",
             "is_new": true
         }
+    },
+    {
+        "id": "11775",
+        "title": "モンスターカミング",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.8,
+            11.4,
+            13.2
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    141,
+                    13,
+                    8,
+                    15,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    316,
+                    24,
+                    13,
+                    18,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    341,
+                    62,
+                    19,
+                    11,
+                    52
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    392,
+                    49,
+                    103,
+                    49,
+                    64
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "モンスターカミング",
+            "artist": "おめがシスターズ",
+            "genre": "POPS＆アニメ",
+            "bpm": 210,
+            "release_date": "20250606",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11802",
+        "title": "ワールドワイドワンダー",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            9.5,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "9",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    123,
+                    17,
+                    4,
+                    4,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    268,
+                    6,
+                    7,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    349,
+                    63,
+                    47,
+                    12,
+                    17
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    522,
+                    88,
+                    64,
+                    18,
+                    68
+                ],
+                "charter": "きょむりん"
+            }
+        ],
+        "basic_info": {
+            "title": "ワールドワイドワンダー",
+            "artist": "TOKOTOKO（西沢さんP）",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 142,
+            "release_date": "20250606",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11804",
+        "title": "How To Make 音ゲ～曲！",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            7.7,
+            12.0,
+            13.8
+        ],
+        "level": [
+            "5",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    206,
+                    25,
+                    4,
+                    7,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    341,
+                    16,
+                    7,
+                    28,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    267,
+                    100,
+                    79,
+                    23,
+                    180
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    589,
+                    54,
+                    72,
+                    76,
+                    63
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "How To Make 音ゲ～曲！",
+            "artist": "F Rabbeat feat.マスタード",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 185,
+            "release_date": "20250606",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11803",
+        "title": "MORNINGLOOM",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            8.2,
+            11.5,
+            13.7
+        ],
+        "level": [
+            "4",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    209,
+                    15,
+                    2,
+                    9,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    330,
+                    22,
+                    6,
+                    24,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    388,
+                    50,
+                    36,
+                    26,
+                    24
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    418,
+                    78,
+                    77,
+                    60,
+                    83
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "MORNINGLOOM",
+            "artist": "saaa",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 102,
+            "release_date": "20250606",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
     }
 ]
