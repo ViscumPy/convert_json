@@ -99331,5 +99331,442 @@
             "is_new": true,
             "key": ""
         }
+    },
+    {
+        "id": "b63264a7cfe89264",
+        "title": "BlackFlagBreaker!!",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            8.0,
+            11.0,
+            13.8
+        ],
+        "level": [
+            "4",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    186,
+                    9,
+                    5,
+                    6,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    349,
+                    12,
+                    15,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    406,
+                    50,
+                    49,
+                    41,
+                    42
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    693,
+                    112,
+                    124,
+                    27,
+                    42
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "BlackFlagBreaker!!",
+            "artist": "社築 × sasakure.UK",
+            "genre": "POPS＆アニメ",
+            "bpm": 163,
+            "release_date": "20250620",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "9bfa0e4eab3c770c",
+        "title": "RED",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            9.7,
+            13.3
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    136,
+                    11,
+                    6,
+                    8,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    253,
+                    12,
+                    12,
+                    28,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    317,
+                    31,
+                    27,
+                    16,
+                    8
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    385,
+                    36,
+                    60,
+                    65,
+                    57
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "RED",
+            "artist": "三枝明那",
+            "genre": "POPS＆アニメ",
+            "bpm": 168,
+            "release_date": "20250620",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "4516b8b8e6cb4d7c",
+        "title": "うぇいびー",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.8,
+            10.5,
+            13.0,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7+",
+            "10",
+            "13",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    370,
+                    72,
+                    37,
+                    29,
+                    37
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    580,
+                    44,
+                    133,
+                    35,
+                    47
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    629,
+                    48,
+                    176,
+                    23,
+                    59
+                ],
+                "charter": "三枝明那とはっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "うぇいびー",
+            "artist": "三枝明那",
+            "genre": "POPS＆アニメ",
+            "bpm": 200,
+            "release_date": "20250620",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "044c69ffe7a5d66a",
+        "title": "ホラフキパペット",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.7,
+            10.8,
+            13.6
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "メロンホップ"
+            }
+        ],
+        "basic_info": {
+            "title": "ホラフキパペット",
+            "artist": "七次元生徒会！",
+            "genre": "POPS＆アニメ",
+            "bpm": 205,
+            "release_date": "20250620",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "31d7d548f4a52676",
+        "title": "[逆]WE'RE BACK!!",
+        "type": "UTAGE",
+        "comment": "SLIDE BACK!!",
+        "ds": [
+            12.6
+        ],
+        "level": [
+            "12+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[逆]WE'RE BACK!!",
+            "artist": "Zekk",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20250620",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "8bd4abae1de74251",
+        "title": "なんかノイズにきこえる",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.5,
+            9.7,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "じゃこレモン"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "なんかノイズにきこえる",
+            "artist": "HaNaMiNa feat.Hana",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 158,
+            "release_date": "20250620",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "6bb029ffc3be5817",
+        "title": "[覚]Hainuwele",
+        "type": "UTAGE",
+        "comment": "maimai でらっくす版覚譜面もほしかった",
+        "ds": [
+            13.6
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[覚]Hainuwele",
+            "artist": "ETIA.",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20250620",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
     }
 ]
