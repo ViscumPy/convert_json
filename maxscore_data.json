@@ -85827,7 +85827,7 @@
             "level_label": "Basic",
             "ra": 90,
             "rate": "sssp",
-            "song_id": "b63264a7cfe89264",
+            "song_id": 11870,
             "title": "BlackFlagBreaker!!",
             "type": "DX"
         },
@@ -85842,7 +85842,7 @@
             "level_label": "Advanced",
             "ra": 180,
             "rate": "sssp",
-            "song_id": "b63264a7cfe89264",
+            "song_id": 11870,
             "title": "BlackFlagBreaker!!",
             "type": "DX"
         },
@@ -85857,7 +85857,7 @@
             "level_label": "Expert",
             "ra": 247,
             "rate": "sssp",
-            "song_id": "b63264a7cfe89264",
+            "song_id": 11870,
             "title": "BlackFlagBreaker!!",
             "type": "DX"
         },
@@ -85872,7 +85872,7 @@
             "level_label": "Master",
             "ra": 310,
             "rate": "sssp",
-            "song_id": "b63264a7cfe89264",
+            "song_id": 11870,
             "title": "BlackFlagBreaker!!",
             "type": "DX"
         },
@@ -85887,7 +85887,7 @@
             "level_label": "Basic",
             "ra": 67,
             "rate": "sssp",
-            "song_id": "9bfa0e4eab3c770c",
+            "song_id": 11868,
             "title": "RED",
             "type": "DX"
         },
@@ -85902,7 +85902,7 @@
             "level_label": "Advanced",
             "ra": 146,
             "rate": "sssp",
-            "song_id": "9bfa0e4eab3c770c",
+            "song_id": 11868,
             "title": "RED",
             "type": "DX"
         },
@@ -85917,7 +85917,7 @@
             "level_label": "Expert",
             "ra": 218,
             "rate": "sssp",
-            "song_id": "9bfa0e4eab3c770c",
+            "song_id": 11868,
             "title": "RED",
             "type": "DX"
         },
@@ -85932,7 +85932,7 @@
             "level_label": "Master",
             "ra": 299,
             "rate": "sssp",
-            "song_id": "9bfa0e4eab3c770c",
+            "song_id": 11868,
             "title": "RED",
             "type": "DX"
         },
@@ -85947,7 +85947,7 @@
             "level_label": "Basic",
             "ra": 67,
             "rate": "sssp",
-            "song_id": "4516b8b8e6cb4d7c",
+            "song_id": 11867,
             "title": "うぇいびー",
             "type": "DX"
         },
@@ -85962,7 +85962,7 @@
             "level_label": "Advanced",
             "ra": 175,
             "rate": "sssp",
-            "song_id": "4516b8b8e6cb4d7c",
+            "song_id": 11867,
             "title": "うぇいびー",
             "type": "DX"
         },
@@ -85977,7 +85977,7 @@
             "level_label": "Expert",
             "ra": 236,
             "rate": "sssp",
-            "song_id": "4516b8b8e6cb4d7c",
+            "song_id": 11867,
             "title": "うぇいびー",
             "type": "DX"
         },
@@ -85992,7 +85992,7 @@
             "level_label": "Master",
             "ra": 292,
             "rate": "sssp",
-            "song_id": "4516b8b8e6cb4d7c",
+            "song_id": 11867,
             "title": "うぇいびー",
             "type": "DX"
         },
@@ -86007,7 +86007,7 @@
             "level_label": "Re:MASTER",
             "ra": 308,
             "rate": "sssp",
-            "song_id": "4516b8b8e6cb4d7c",
+            "song_id": 11867,
             "title": "うぇいびー",
             "type": "DX"
         },
@@ -86022,7 +86022,7 @@
             "level_label": "Basic",
             "ra": 90,
             "rate": "sssp",
-            "song_id": "044c69ffe7a5d66a",
+            "song_id": 11869,
             "title": "ホラフキパペット",
             "type": "DX"
         },
@@ -86037,7 +86037,7 @@
             "level_label": "Advanced",
             "ra": 173,
             "rate": "sssp",
-            "song_id": "044c69ffe7a5d66a",
+            "song_id": 11869,
             "title": "ホラフキパペット",
             "type": "DX"
         },
@@ -86052,7 +86052,7 @@
             "level_label": "Expert",
             "ra": 243,
             "rate": "sssp",
-            "song_id": "044c69ffe7a5d66a",
+            "song_id": 11869,
             "title": "ホラフキパペット",
             "type": "DX"
         },
@@ -86067,7 +86067,7 @@
             "level_label": "Master",
             "ra": 306,
             "rate": "sssp",
-            "song_id": "044c69ffe7a5d66a",
+            "song_id": 11869,
             "title": "ホラフキパペット",
             "type": "DX"
         },
@@ -86082,7 +86082,7 @@
             "level_label": "Basic",
             "ra": 283,
             "rate": "sssp",
-            "song_id": "31d7d548f4a52676",
+            "song_id": 111628,
             "title": "[逆]WE'RE BACK!!",
             "type": "UTAGE"
         },
@@ -86097,7 +86097,7 @@
             "level_label": "Basic",
             "ra": 67,
             "rate": "sssp",
-            "song_id": "8bd4abae1de74251",
+            "song_id": 11824,
             "title": "なんかノイズにきこえる",
             "type": "DX"
         },
@@ -86112,7 +86112,7 @@
             "level_label": "Advanced",
             "ra": 168,
             "rate": "sssp",
-            "song_id": "8bd4abae1de74251",
+            "song_id": 11824,
             "title": "なんかノイズにきこえる",
             "type": "DX"
         },
@@ -86127,7 +86127,7 @@
             "level_label": "Expert",
             "ra": 218,
             "rate": "sssp",
-            "song_id": "8bd4abae1de74251",
+            "song_id": 11824,
             "title": "なんかノイズにきこえる",
             "type": "DX"
         },
@@ -86142,7 +86142,7 @@
             "level_label": "Master",
             "ra": 308,
             "rate": "sssp",
-            "song_id": "8bd4abae1de74251",
+            "song_id": 11824,
             "title": "なんかノイズにきこえる",
             "type": "DX"
         },
@@ -86157,7 +86157,7 @@
             "level_label": "Basic",
             "ra": 306,
             "rate": "sssp",
-            "song_id": "6bb029ffc3be5817",
+            "song_id": 111479,
             "title": "[覚]Hainuwele",
             "type": "UTAGE"
         }
