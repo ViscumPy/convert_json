@@ -14493,6 +14493,77 @@
         }
     },
     {
+        "id": "10303",
+        "title": "Endless, Sleepless Night",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            10.7,
+            13.3
+        ],
+        "level": [
+            "3",
+            "6",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "Endless, Sleepless Night",
+            "artist": "samfree feat.(V)・∀・(V)かにぱん。(A-ONE)",
+            "genre": "東方Project",
+            "bpm": 165,
+            "release_date": "20250704",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": "305",
         "title": "POP STAR",
         "type": "SD",
@@ -99977,6 +100048,77 @@
             "genre": "niconico＆ボーカロイド",
             "bpm": 135,
             "release_date": "20250627",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11826",
+        "title": "Lover's Trick",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.8,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    138,
+                    12,
+                    6,
+                    13,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    212,
+                    16,
+                    5,
+                    21,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    245,
+                    82,
+                    46,
+                    35,
+                    34
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    520,
+                    88,
+                    37,
+                    85,
+                    18
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Lover's Trick",
+            "artist": "litmus*",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 130,
+            "release_date": "20250704",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": ""
