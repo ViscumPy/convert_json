@@ -91529,5 +91529,218 @@
             "is_new": true,
             "key": ""
         }
+    },
+    {
+        "id": "99e85a1e3f0d8213",
+        "title": "いっぱい食べる君が好きだよ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            8.0,
+            10.8,
+            13.2
+        ],
+        "level": [
+            "4",
+            "8",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    205,
+                    15,
+                    4,
+                    8,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    347,
+                    12,
+                    6,
+                    43,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    434,
+                    76,
+                    38,
+                    39,
+                    32
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    549,
+                    52,
+                    90,
+                    54,
+                    53
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "いっぱい食べる君が好きだよ",
+            "artist": "ななひら",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 224,
+            "release_date": "20250704",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "a70ad05ed58abaaf",
+        "title": "お願い！コンコンお稲荷さま",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.5,
+            13.2
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    181,
+                    29,
+                    4,
+                    16,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    326,
+                    24,
+                    10,
+                    15,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    63,
+                    47,
+                    40,
+                    76
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    444,
+                    52,
+                    133,
+                    57,
+                    144
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "お願い！コンコンお稲荷さま",
+            "artist": "ARM×狐夢想 feat. ななひら",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 175,
+            "release_date": "20250704",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "9de079083677da5b",
+        "title": "ピポピポ -People People- feat. ななひら",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.0,
+            11.2,
+            13.8
+        ],
+        "level": [
+            "5",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    201,
+                    18,
+                    7,
+                    16,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    376,
+                    31,
+                    4,
+                    24,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    495,
+                    69,
+                    33,
+                    6,
+                    40
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    530,
+                    142,
+                    100,
+                    88,
+                    170
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "ピポピポ -People People- feat. ななひら",
+            "artist": "Neko Hacker",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 230,
+            "release_date": "20250704",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
     }
 ]
