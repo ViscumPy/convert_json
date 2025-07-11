@@ -86472,7 +86472,7 @@
             "level_label": "Basic",
             "ra": 67,
             "rate": "sssp",
-            "song_id": "9099bf55e3eb446a",
+            "song_id": 11827,
             "title": "サウンドプレイヤー",
             "type": "DX"
         },
@@ -86487,7 +86487,7 @@
             "level_label": "Advanced",
             "ra": 157,
             "rate": "sssp",
-            "song_id": "9099bf55e3eb446a",
+            "song_id": 11827,
             "title": "サウンドプレイヤー",
             "type": "DX"
         },
@@ -86502,7 +86502,7 @@
             "level_label": "Expert",
             "ra": 225,
             "rate": "sssp",
-            "song_id": "9099bf55e3eb446a",
+            "song_id": 11827,
             "title": "サウンドプレイヤー",
             "type": "DX"
         },
@@ -86517,7 +86517,7 @@
             "level_label": "Master",
             "ra": 308,
             "rate": "sssp",
-            "song_id": "9099bf55e3eb446a",
+            "song_id": 11827,
             "title": "サウンドプレイヤー",
             "type": "DX"
         },
@@ -86532,7 +86532,7 @@
             "level_label": "Basic",
             "ra": 112,
             "rate": "sssp",
-            "song_id": "bd5acd48e3191743",
+            "song_id": 11816,
             "title": "Amereistr",
             "type": "DX"
         },
@@ -86547,7 +86547,7 @@
             "level_label": "Advanced",
             "ra": 180,
             "rate": "sssp",
-            "song_id": "bd5acd48e3191743",
+            "song_id": 11816,
             "title": "Amereistr",
             "type": "DX"
         },
@@ -86562,7 +86562,7 @@
             "level_label": "Expert",
             "ra": 281,
             "rate": "sssp",
-            "song_id": "bd5acd48e3191743",
+            "song_id": 11816,
             "title": "Amereistr",
             "type": "DX"
         },
@@ -86577,7 +86577,7 @@
             "level_label": "Master",
             "ra": 312,
             "rate": "sssp",
-            "song_id": "bd5acd48e3191743",
+            "song_id": 11816,
             "title": "Amereistr",
             "type": "DX"
         },
@@ -86592,7 +86592,7 @@
             "level_label": "Basic",
             "ra": 90,
             "rate": "sssp",
-            "song_id": "51959395323a90a1",
+            "song_id": 11815,
             "title": "IMBRUED:FLUX",
             "type": "DX"
         },
@@ -86607,7 +86607,7 @@
             "level_label": "Advanced",
             "ra": 173,
             "rate": "sssp",
-            "song_id": "51959395323a90a1",
+            "song_id": 11815,
             "title": "IMBRUED:FLUX",
             "type": "DX"
         },
@@ -86622,7 +86622,7 @@
             "level_label": "Expert",
             "ra": 247,
             "rate": "sssp",
-            "song_id": "51959395323a90a1",
+            "song_id": 11815,
             "title": "IMBRUED:FLUX",
             "type": "DX"
         },
@@ -86637,7 +86637,7 @@
             "level_label": "Master",
             "ra": 317,
             "rate": "sssp",
-            "song_id": "51959395323a90a1",
+            "song_id": 11815,
             "title": "IMBRUED:FLUX",
             "type": "DX"
         },
@@ -86652,7 +86652,7 @@
             "level_label": "Basic",
             "ra": 67,
             "rate": "sssp",
-            "song_id": "64591d22ccbf08c8",
+            "song_id": 11816,
             "title": "砂の函",
             "type": "DX"
         },
@@ -86667,7 +86667,7 @@
             "level_label": "Advanced",
             "ra": 139,
             "rate": "sssp",
-            "song_id": "64591d22ccbf08c8",
+            "song_id": 11816,
             "title": "砂の函",
             "type": "DX"
         },
@@ -86682,7 +86682,7 @@
             "level_label": "Expert",
             "ra": 252,
             "rate": "sssp",
-            "song_id": "64591d22ccbf08c8",
+            "song_id": 11816,
             "title": "砂の函",
             "type": "DX"
         },
@@ -86697,7 +86697,7 @@
             "level_label": "Master",
             "ra": 315,
             "rate": "sssp",
-            "song_id": "64591d22ccbf08c8",
+            "song_id": 11816,
             "title": "砂の函",
             "type": "DX"
         }
