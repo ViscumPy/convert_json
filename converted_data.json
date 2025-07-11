@@ -99714,11 +99714,11 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    489,
+                    47,
+                    56,
+                    26,
+                    30
                 ],
                 "charter": "-"
             }
@@ -99820,11 +99820,11 @@
         "charts": [
             {
                 "notes": [
+                    151,
+                    24,
+                    159,
                     0,
-                    0,
-                    0,
-                    0,
-                    0
+                    56
                 ],
                 "charter": "-"
             }
@@ -100188,7 +100188,7 @@
             "title": "サウンドプレイヤー",
             "artist": "tilt-six feat.バル",
             "genre": "オンゲキ＆CHUNITHM",
-            "bpm": 0,
+            "bpm": 143,
             "release_date": "20250711",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
@@ -100259,7 +100259,7 @@
             "title": "Amereistr",
             "artist": "rN",
             "genre": "maimai",
-            "bpm": 0,
+            "bpm": 147,
             "release_date": "20250711",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
@@ -100287,50 +100287,50 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    177,
+                    8,
+                    10,
+                    9,
+                    4
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    302,
+                    10,
+                    11,
+                    14,
+                    4
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    377,
+                    66,
+                    39,
+                    53,
+                    43
                 ],
-                "charter": ""
+                "charter": "サファ太"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    661,
+                    60,
+                    101,
+                    82,
+                    39
                 ],
-                "charter": ""
+                "charter": "きょむりん vs Luxizhel"
             }
         ],
         "basic_info": {
             "title": "IMBRUED:FLUX",
             "artist": "qfeileadh feat.のあ",
             "genre": "maimai",
-            "bpm": 0,
+            "bpm": 176,
             "release_date": "20250711",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
@@ -100401,7 +100401,7 @@
             "title": "砂の函",
             "artist": "Nego_tiator",
             "genre": "maimai",
-            "bpm": 0,
+            "bpm": 180,
             "release_date": "20250711",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
