@@ -100407,5 +100407,76 @@
             "is_new": true,
             "key": "【需要解禁】"
         }
+    },
+    {
+        "id": "4f8dd5d9c721b249",
+        "title": "World's end BLACKBOX",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            7.7,
+            10.0,
+            13.0,
+            14.6
+        ],
+        "level": [
+            "7+",
+            "10",
+            "13",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    671,
+                    34,
+                    54,
+                    70,
+                    50
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    831,
+                    137,
+                    116,
+                    115,
+                    123
+                ],
+                "charter": "7sRef -DOVE-"
+            }
+        ],
+        "basic_info": {
+            "title": "World's end BLACKBOX",
+            "artist": "打打だいず",
+            "genre": "maimai",
+            "bpm": 205,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】"
+        }
     }
 ]
