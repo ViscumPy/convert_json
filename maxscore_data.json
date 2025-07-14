@@ -86712,7 +86712,7 @@
             "level_label": "Basic",
             "ra": 173,
             "rate": "sssp",
-            "song_id": "4f8dd5d9c721b249",
+            "song_id": 11818,
             "title": "World's end BLACKBOX",
             "type": "DX"
         },
@@ -86727,7 +86727,7 @@
             "level_label": "Advanced",
             "ra": 225,
             "rate": "sssp",
-            "song_id": "4f8dd5d9c721b249",
+            "song_id": 11818,
             "title": "World's end BLACKBOX",
             "type": "DX"
         },
@@ -86742,22 +86742,22 @@
             "level_label": "Expert",
             "ra": 292,
             "rate": "sssp",
-            "song_id": "4f8dd5d9c721b249",
+            "song_id": 11818,
             "title": "World's end BLACKBOX",
             "type": "DX"
         },
         {
             "achievements": 101.0,
-            "ds": 14.6,
+            "ds": 14.9,
             "dxScore": 3966,
             "fc": "app",
             "fs": "fdxp",
             "level": "14+",
             "level_index": 3,
             "level_label": "Master",
-            "ra": 328,
+            "ra": 335,
             "rate": "sssp",
-            "song_id": "4f8dd5d9c721b249",
+            "song_id": 11818,
             "title": "World's end BLACKBOX",
             "type": "DX"
         }
