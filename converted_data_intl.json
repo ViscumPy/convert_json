@@ -91742,5 +91742,252 @@
             "is_new": true,
             "key": ""
         }
+    },
+    {
+        "id": "11791",
+        "title": "On your mark (104期 Ver.)",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.7,
+            9.5,
+            12.9
+        ],
+        "level": [
+            "3",
+            "6",
+            "9",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    131,
+                    17,
+                    4,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    268,
+                    16,
+                    10,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    350,
+                    54,
+                    27,
+                    27,
+                    20
+                ],
+                "charter": "まぐランド"
+            },
+            {
+                "notes": [
+                    433,
+                    64,
+                    75,
+                    36,
+                    34
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "On your mark (104期 Ver.)",
+            "artist": "蓮ノ空女学院スクールアイドルクラブ",
+            "genre": "POPS＆アニメ",
+            "bpm": 154,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11792",
+        "title": "はげしこの夜 -Psylent Crazy Night-",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.7,
+            11.7,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    143,
+                    12,
+                    6,
+                    14,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    272,
+                    16,
+                    10,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    424,
+                    39,
+                    44,
+                    16,
+                    56
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    583,
+                    51,
+                    75,
+                    19,
+                    30
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "はげしこの夜 -Psylent Crazy Night-",
+            "artist": "aran & Kobaryo",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 135,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "111429",
+        "title": "[爆]Love's Theme of BADASS ～バッド・アス 愛のテーマ～",
+        "type": "UTAGE",
+        "comment": "爆発は好きか！？",
+        "ds": [
+            14.0
+        ],
+        "level": [
+            "14?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    337,
+                    115,
+                    8,
+                    391,
+                    491
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[爆]Love's Theme of BADASS ～バッド・アス 愛のテーマ～",
+            "artist": "Hommarju",
+            "genre": "宴会場",
+            "bpm": 202,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "111234",
+        "title": "[星]ほしぞらスペクタクル",
+        "type": "UTAGE",
+        "comment": "ほしだけスペクタクル",
+        "ds": [
+            14.0
+        ],
+        "level": [
+            "14?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    1127,
+                    0,
+                    69,
+                    0,
+                    26
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[星]ほしぞらスペクタクル",
+            "artist": "奏音",
+            "genre": "宴会場",
+            "bpm": 200,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "1060b41523ca6346",
+        "title": "[片]神々が恋した幻想郷",
+        "type": "UTAGE",
+        "comment": "神々が恋したトリル郷",
+        "ds": [
+            14.0
+        ],
+        "level": [
+            "14?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    955,
+                    57,
+                    45,
+                    1,
+                    33
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[片]神々が恋した幻想郷",
+            "artist": "Unlucky Morpheus",
+            "genre": "宴会場",
+            "bpm": 155,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
     }
 ]
