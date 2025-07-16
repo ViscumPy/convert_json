@@ -42143,15 +42143,15 @@
         }
     },
     {
-        "id": "835",
+        "id": "10835",
         "title": "Believe the Rainbow",
         "type": "SD",
         "comment": "",
         "ds": [
-            4.0,
-            8.6,
-            10.2,
-            13.4
+            0.0,
+            0.0,
+            0.0,
+            13.0
         ],
         "level": [
             "4",
@@ -42163,39 +42163,43 @@
         "charts": [
             {
                 "notes": [
-                    126,
-                    12,
-                    8,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    277,
-                    26,
-                    28,
-                    11
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    275,
-                    38,
-                    43,
-                    14
-                ],
-                "charter": "某S氏"
-            },
-            {
-                "notes": [
-                    196,
                     0,
-                    242,
-                    7
+                    0,
+                    0,
+                    0,
+                    0
                 ],
-                "charter": "はっぴー"
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
             }
         ],
         "basic_info": {
@@ -100687,6 +100691,323 @@
             "genre": "オンゲキ＆CHUNITHM",
             "bpm": 0,
             "release_date": "20250716",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】"
+        }
+    },
+    {
+        "id": "835",
+        "title": "Believe the Rainbow",
+        "type": "SD",
+        "comment": "",
+        "ds": [
+            4.0,
+            8.6,
+            10.2,
+            13.4
+        ],
+        "level": [
+            "4",
+            "8+",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "basic_info": {
+            "title": "Believe the Rainbow",
+            "artist": "Shoichiro Hirata feat.Sana",
+            "genre": "maimai",
+            "bpm": 133,
+            "release_date": "20190711",
+            "from": "maimai FiNALE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "11819",
+        "title": "AFTER PANDORA",
+        "type": "SD",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.6,
+            12.0,
+            14.0
+        ],
+        "level": [
+            "3",
+            "7+",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "AFTER PANDORA",
+            "artist": "削除",
+            "genre": "maimai",
+            "bpm": 85,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】"
+        }
+    },
+    {
+        "id": "11820",
+        "title": "Xaleid◆scopiX",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            7.7,
+            11.0,
+            13.7,
+            14.9,
+            15.0
+        ],
+        "level": [
+            "7+",
+            "11",
+            "13+",
+            "14+",
+            "15"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    517,
+                    26,
+                    12,
+                    36,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    865,
+                    51,
+                    20,
+                    60,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    1017,
+                    103,
+                    90,
+                    75,
+                    72
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    1556,
+                    143,
+                    168,
+                    93,
+                    221
+                ],
+                "charter": "KALEIDXSCOPE"
+            },
+            {
+                "notes": [
+                    1590,
+                    173,
+                    103,
+                    134,
+                    222
+                ],
+                "charter": "Xaleid◆scopiX"
+            }
+        ],
+        "basic_info": {
+            "title": "Xaleid◆scopiX",
+            "artist": "xi",
+            "genre": "maimai",
+            "bpm": 180,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】"
+        }
+    },
+    {
+        "id": "11821",
+        "title": "Ref:rain (for 7th Heaven)",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            0.0,
+            0.0,
+            12.5,
+            14.0
+        ],
+        "level": [
+            "?",
+            "?",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Ref:rain (for 7th Heaven)",
+            "artist": "カモメサノエレクトリックオーケストラ include Limonène",
+            "genre": "maimai",
+            "bpm": 188,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】"
+        }
+    },
+    {
+        "id": "1736",
+        "title": "プリズム△▽リズム",
+        "type": "SD",
+        "comment": "",
+        "ds": [
+            0.0,
+            0.0,
+            0.0,
+            13.0
+        ],
+        "level": [
+            "?",
+            "?",
+            "?",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "プリズム△▽リズム",
+            "artist": "Shoichiro Hirata feat.Sana",
+            "genre": "maimai",
+            "bpm": 155,
+            "release_date": "20250711",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": "【需要解禁】"
