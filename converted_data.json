@@ -100478,5 +100478,218 @@
             "is_new": true,
             "key": "【需要解禁】"
         }
+    },
+    {
+        "id": "11830",
+        "title": "Tidal Wave",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.7,
+            12.3,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Tidal Wave",
+            "artist": "D-Cee",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 0,
+            "release_date": "20250716",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】"
+        }
+    },
+    {
+        "id": "11828",
+        "title": "crazy (about you)",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.8,
+            13.8
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "crazy (about you)",
+            "artist": "kamome sano",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 0,
+            "release_date": "20250716",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11829",
+        "title": "Drivessover",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            12.2,
+            13.6
+        ],
+        "level": [
+            "4",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Drivessover",
+            "artist": "Taishi",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 0,
+            "release_date": "20250716",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】"
+        }
     }
 ]
