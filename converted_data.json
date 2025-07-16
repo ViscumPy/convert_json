@@ -42143,15 +42143,15 @@
         }
     },
     {
-        "id": "10835",
+        "id": "835",
         "title": "Believe the Rainbow",
         "type": "SD",
         "comment": "",
         "ds": [
-            0.0,
-            0.0,
-            0.0,
-            13.0
+            4.0,
+            8.6,
+            10.2,
+            13.4
         ],
         "level": [
             "4",
@@ -42163,43 +42163,39 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    126,
+                    12,
+                    8,
+                    6
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    277,
+                    26,
+                    28,
+                    11
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    275,
+                    38,
+                    43,
+                    14
                 ],
-                "charter": ""
+                "charter": "某S氏"
             },
             {
                 "notes": [
+                    196,
                     0,
-                    0,
-                    0,
-                    0,
-                    0
+                    242,
+                    7
                 ],
-                "charter": ""
+                "charter": "はっぴー"
             }
         ],
         "basic_info": {
@@ -100697,35 +100693,6 @@
         }
     },
     {
-        "id": "835",
-        "title": "Believe the Rainbow",
-        "type": "SD",
-        "comment": "",
-        "ds": [
-            4.0,
-            8.6,
-            10.2,
-            13.4
-        ],
-        "level": [
-            "4",
-            "8+",
-            "10",
-            "13"
-        ],
-        "cids": [],
-        "basic_info": {
-            "title": "Believe the Rainbow",
-            "artist": "Shoichiro Hirata feat.Sana",
-            "genre": "maimai",
-            "bpm": 133,
-            "release_date": "20190711",
-            "from": "maimai FiNALE",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
         "id": "11819",
         "title": "AFTER PANDORA",
         "type": "SD",
@@ -100940,6 +100907,77 @@
             "artist": "カモメサノエレクトリックオーケストラ include Limonène",
             "genre": "maimai",
             "bpm": 188,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】"
+        }
+    },
+    {
+        "id": "10835",
+        "title": "Believe the Rainbow",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            0.0,
+            0.0,
+            0.0,
+            13.0
+        ],
+        "level": [
+            "?",
+            "?",
+            "?",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Believe the Rainbow",
+            "artist": "Shoichiro Hirata feat.Sana",
+            "genre": "maimai",
+            "bpm": 133,
             "release_date": "20250711",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
