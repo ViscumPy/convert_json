@@ -42210,6 +42210,77 @@
         }
     },
     {
+        "id": "10835",
+        "title": "Believe the Rainbow",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.0,
+            9.6,
+            13.0
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    144,
+                    11,
+                    4,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    198,
+                    17,
+                    9,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    214,
+                    48,
+                    39,
+                    64,
+                    21
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    259,
+                    25,
+                    116,
+                    93,
+                    35
+                ],
+                "charter": "チャン@DP皆伝"
+            }
+        ],
+        "basic_info": {
+            "title": "Believe the Rainbow",
+            "artist": "Shoichiro Hirata feat.Sana",
+            "genre": "maimai",
+            "bpm": 133,
+            "release_date": "20250725",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": "836",
         "title": "Good Bye, Mr. Jack",
         "type": "SD",
@@ -91198,6 +91269,73 @@
         }
     },
     {
+        "id": "1736",
+        "title": "プリズム△▽リズム",
+        "type": "SD",
+        "comment": "",
+        "ds": [
+            4.0,
+            6.0,
+            9.0,
+            13.0
+        ],
+        "level": [
+            "4",
+            "6",
+            "9",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    187,
+                    18,
+                    7,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    249,
+                    16,
+                    15,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    349,
+                    30,
+                    30,
+                    10
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    498,
+                    57,
+                    113,
+                    13
+                ],
+                "charter": "譜面-100号"
+            }
+        ],
+        "basic_info": {
+            "title": "プリズム△▽リズム",
+            "artist": "Shoichiro Hirata feat.Sana",
+            "genre": "maimai",
+            "bpm": 155,
+            "release_date": "20250725",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": "11736",
         "title": "プリズム△▽リズム",
         "type": "DX",
@@ -100693,73 +100831,6 @@
         }
     },
     {
-        "id": "11819",
-        "title": "AFTER PANDORA",
-        "type": "SD",
-        "comment": "",
-        "ds": [
-            3.0,
-            7.6,
-            12.0,
-            14.2
-        ],
-        "level": [
-            "3",
-            "7+",
-            "12",
-            "14"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    165,
-                    6,
-                    8,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    275,
-                    11,
-                    6,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    255,
-                    44,
-                    29,
-                    5
-                ],
-                "charter": "Jack"
-            },
-            {
-                "notes": [
-                    426,
-                    21,
-                    102,
-                    25
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "AFTER PANDORA",
-            "artist": "削除",
-            "genre": "maimai",
-            "bpm": 85,
-            "release_date": "20250711",
-            "from": "maimai でらっくす PRiSM PLUS",
-            "is_new": true,
-            "key": "【需要解禁】"
-        }
-    },
-    {
         "id": "11820",
         "title": "Xaleid◆scopiX",
         "type": "DX",
@@ -100767,8 +100838,8 @@
         "ds": [
             7.7,
             11.0,
-            13.7,
-            14.9,
+            13.6,
+            14.6,
             15.0
         ],
         "level": [
@@ -100836,7 +100907,74 @@
             "artist": "xi",
             "genre": "maimai",
             "bpm": 180,
-            "release_date": "20250711",
+            "release_date": "20250713",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】"
+        }
+    },
+    {
+        "id": "11819",
+        "title": "AFTER PANDORA",
+        "type": "SD",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.6,
+            12.0,
+            14.0
+        ],
+        "level": [
+            "3",
+            "7+",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    165,
+                    6,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    275,
+                    11,
+                    6,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    255,
+                    44,
+                    29,
+                    5
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    429,
+                    21,
+                    102,
+                    25
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "AFTER PANDORA",
+            "artist": "削除",
+            "genre": "maimai",
+            "bpm": 85,
+            "release_date": "20250713",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": "【需要解禁】"
@@ -100850,7 +100988,7 @@
         "ds": [
             4.0,
             8.0,
-            12.5,
+            12.0,
             14.0
         ],
         "level": [
@@ -100907,145 +101045,7 @@
             "artist": "カモメサノエレクトリックオーケストラ include Limonène",
             "genre": "maimai",
             "bpm": 188,
-            "release_date": "20250711",
-            "from": "maimai でらっくす PRiSM PLUS",
-            "is_new": true,
-            "key": "【需要解禁】"
-        }
-    },
-    {
-        "id": "10835",
-        "title": "Believe the Rainbow",
-        "type": "DX",
-        "comment": "",
-        "ds": [
-            2.0,
-            6.0,
-            9.6,
-            13.0
-        ],
-        "level": [
-            "2",
-            "6",
-            "9+",
-            "13"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    144,
-                    11,
-                    4,
-                    6,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    198,
-                    17,
-                    9,
-                    26,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    214,
-                    48,
-                    39,
-                    64,
-                    21
-                ],
-                "charter": ""
-            },
-            {
-                "notes": [
-                    259,
-                    25,
-                    116,
-                    96,
-                    35
-                ],
-                "charter": "チャン@DP皆伝"
-            }
-        ],
-        "basic_info": {
-            "title": "Believe the Rainbow",
-            "artist": "Shoichiro Hirata feat.Sana",
-            "genre": "maimai",
-            "bpm": 133,
-            "release_date": "20250711",
-            "from": "maimai でらっくす PRiSM PLUS",
-            "is_new": true,
-            "key": "【需要解禁】"
-        }
-    },
-    {
-        "id": "1736",
-        "title": "プリズム△▽リズム",
-        "type": "SD",
-        "comment": "",
-        "ds": [
-            4.0,
-            6.0,
-            9.0,
-            13.0
-        ],
-        "level": [
-            "4",
-            "6",
-            "9",
-            "13"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    187,
-                    18,
-                    7,
-                    1
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    249,
-                    16,
-                    15,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    349,
-                    30,
-                    30,
-                    10
-                ],
-                "charter": ""
-            },
-            {
-                "notes": [
-                    498,
-                    57,
-                    117,
-                    13
-                ],
-                "charter": "譜面-100号"
-            }
-        ],
-        "basic_info": {
-            "title": "プリズム△▽リズム",
-            "artist": "Shoichiro Hirata feat.Sana",
-            "genre": "maimai",
-            "bpm": 155,
-            "release_date": "20250711",
+            "release_date": "20250713",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": "【需要解禁】"
