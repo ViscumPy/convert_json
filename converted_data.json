@@ -101408,9 +101408,9 @@
         "comment": "",
         "ds": [
             2.0,
-            6.0,
-            9.6,
-            12.6
+            6.5,
+            9.9,
+            12.9
         ],
         "level": [
             "2",
@@ -101422,50 +101422,50 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    163,
+                    11,
+                    4,
+                    15,
+                    6
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    296,
+                    12,
+                    7,
+                    27,
+                    4
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    324,
+                    23,
+                    62,
+                    13,
+                    11
                 ],
-                "charter": ""
+                "charter": "鳩ホルダー"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    417,
+                    47,
+                    104,
+                    23,
+                    31
                 ],
-                "charter": ""
+                "charter": "Luxizhel"
             }
         ],
         "basic_info": {
             "title": "少女レイ",
             "artist": "みきとP",
             "genre": "niconico＆ボーカロイド",
-            "bpm": 0,
+            "bpm": 150,
             "release_date": "20250822",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
@@ -101479,9 +101479,9 @@
         "comment": "",
         "ds": [
             2.0,
-            6.0,
-            9.6,
-            13.0
+            6.2,
+            9.9,
+            13.3
         ],
         "level": [
             "2",
@@ -101513,30 +101513,30 @@
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    287,
+                    120,
+                    39,
+                    8,
+                    12
                 ],
-                "charter": ""
+                "charter": "アマリリス"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    686,
+                    29,
+                    91,
+                    15,
+                    21
                 ],
-                "charter": ""
+                "charter": "はっぴー"
             }
         ],
         "basic_info": {
             "title": "少女A",
             "artist": "椎名もた",
             "genre": "niconico＆ボーカロイド",
-            "bpm": 0,
+            "bpm": 130,
             "release_date": "20250822",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
@@ -101598,8 +101598,8 @@
         "ds": [
             2.0,
             6.0,
-            9.0,
-            13.0
+            9.2,
+            13.3
         ],
         "level": [
             "2",
@@ -101637,24 +101637,24 @@
                     0,
                     0
                 ],
-                "charter": ""
+                "charter": "はっぴー"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    506,
+                    28,
+                    93,
+                    49,
+                    21
                 ],
-                "charter": ""
+                "charter": "カマボコホルダー"
             }
         ],
         "basic_info": {
             "title": "帝国少女",
             "artist": "R Sound Design",
             "genre": "niconico＆ボーカロイド",
-            "bpm": 0,
+            "bpm": 118,
             "release_date": "20250822",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
