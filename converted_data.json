@@ -101660,5 +101660,289 @@
             "is_new": true,
             "key": ""
         }
+    },
+    {
+        "id": "bed54ad3ef5fea33",
+        "title": "Retribution ～ Cycle of Redemption ～",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.0,
+            13.0,
+            14.4
+        ],
+        "level": [
+            "6",
+            "8",
+            "13",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Retribution ～ Cycle of Redemption ～",
+            "artist": "Ardolf vs. Daily天利 (原曲： nm-y & Kry.exe)",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20250905",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】"
+        }
+    },
+    {
+        "id": "2292348c921213b0",
+        "title": "NO ONE YES MAN",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.7,
+            12.0,
+            13.9
+        ],
+        "level": [
+            "3",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "NO ONE YES MAN",
+            "artist": "MYUKKE.",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20250905",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "9c6ba4b62558b06a",
+        "title": "Luminescence",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.6,
+            11.2,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Luminescence",
+            "artist": "米虾Fomiki & 初云CLoudie",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20250905",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "07c863cf04ef6f93",
+        "title": "Leave All Behind",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.8,
+            11.2,
+            13.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Leave All Behind",
+            "artist": "rider",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20250905",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】"
+        }
     }
 ]
