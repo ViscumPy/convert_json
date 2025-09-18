@@ -8272,6 +8272,77 @@
         }
     },
     {
+        "id": "10199",
+        "title": "チルノのパーフェクトさんすう教室",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.0,
+            9.6,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "チルノのパーフェクトさんすう教室",
+            "artist": "ARM＋夕野ヨシミ(IOSYS)feat. miko",
+            "genre": "東方Project",
+            "bpm": 175,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
         "id": "201",
         "title": "魔理沙は大変なものを盗んでいきました",
         "type": "SD",
@@ -82944,41 +83015,6 @@
         }
     },
     {
-        "id": "100022",
-        "title": "[蔵]In Chaos",
-        "type": "UTAGE",
-        "comment": "チャンさんは今日もアクセル全開",
-        "ds": [
-            14.6
-        ],
-        "level": [
-            "14+?"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    824,
-                    0,
-                    110,
-                    0,
-                    9
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[蔵]In Chaos",
-            "artist": "Hiro「Crackin’DJ」",
-            "genre": "宴会場",
-            "bpm": 140,
-            "release_date": "20231225",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
         "id": "100199",
         "title": "[蛸]チルノのパーフェクトさんすう教室",
         "type": "UTAGE",
@@ -84916,76 +84952,6 @@
             "artist": "Zekk",
             "genre": "オンゲキ＆CHUNITHM",
             "bpm": 185,
-            "release_date": "20240229",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": "110631",
-        "title": "[逆]KING is BACK!!",
-        "type": "UTAGE",
-        "comment": "お前がBACKするんかーーーい!!",
-        "ds": [
-            13.6
-        ],
-        "level": [
-            "13+?"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    777,
-                    24,
-                    138,
-                    0,
-                    96
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[逆]KING is BACK!!",
-            "artist": "A-One",
-            "genre": "宴会場",
-            "bpm": 176,
-            "release_date": "20240229",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": "110606",
-        "title": "[右]The wheel to the right",
-        "type": "UTAGE",
-        "comment": "インド人含め右に",
-        "ds": [
-            14.6
-        ],
-        "level": [
-            "14+?"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    603,
-                    20,
-                    185,
-                    0,
-                    200
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[右]The wheel to the right",
-            "artist": "Sampling Masters MEGA",
-            "genre": "宴会場",
-            "bpm": 200,
             "release_date": "20240229",
             "from": "maimai でらっくす BUDDiES",
             "is_new": false,
@@ -98060,7 +98026,7 @@
             "release_date": "20250411",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "【需要解禁】"
+            "key": ""
         }
     },
     {
@@ -100527,7 +100493,7 @@
             "release_date": "20250716",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "【需要解禁】"
+            "key": ""
         }
     },
     {
@@ -100669,7 +100635,7 @@
             "release_date": "20250716",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "【需要解禁】"
+            "key": ""
         }
     },
     {
@@ -101943,6 +101909,1507 @@
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": "【需要解禁】"
+        }
+    },
+    {
+        "id": "6ceb98c44af7be68",
+        "title": "サイエンス",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.6,
+            10.0,
+            13.0
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "サイエンス",
+            "artist": "MIMI",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "c74cbc076d38f358",
+        "title": "イーヴィルガール",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.6,
+            11.0,
+            13.6
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "イーヴィルガール",
+            "artist": "Fushi feat.吉乃",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "7e0a656d5b1753ac",
+        "title": "Dazzle hop",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            9.0,
+            12.6,
+            14.0
+        ],
+        "level": [
+            "6",
+            "9",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Dazzle hop",
+            "artist": "Sampling Masters MEGA",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "0448563f0cb284ef",
+        "title": "有頂天ドリーマーズ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.0,
+            10.6,
+            13.0
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "有頂天ドリーマーズ",
+            "artist": "森羅万象",
+            "genre": "東方Project",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "ba639bf8d279f397",
+        "title": "Unwelcome School",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.0,
+            10.6,
+            12.0,
+            14.0
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Unwelcome School",
+            "artist": "Mitsukiyo「ブルーアーカイブ -Blue Archive-」",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "693ed3f8ef555432",
+        "title": "[餡]隠密あんみつDX",
+        "type": "UTAGE",
+        "comment": "いい感じに同時押しするといい感じになる！",
+        "ds": [
+            12.6
+        ],
+        "level": [
+            "12+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[餡]隠密あんみつDX",
+            "artist": "カルロス袴田 feat. 日南めい, 古川由彩",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "8b1d4ada02babe00",
+        "title": "殿ッ！？ご乱心！？",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.0,
+            12.6,
+            14.0
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "殿ッ！？ご乱心！？",
+            "artist": "Shu feat. 天羽しろっぷ",
+            "genre": "maimai",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "9bba8b74ff4eab24",
+        "title": "テトリス",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.0,
+            10.6,
+            12.0,
+            13.6
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "12",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "テトリス",
+            "artist": "柊マグネタイト",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "363781207ec5dea8",
+        "title": "Bring it on",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.0,
+            10.0,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Bring it on",
+            "artist": "ROF-MAO",
+            "genre": "POPS＆アニメ",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "ec439357b2e17145",
+        "title": "CiRCLE CAMPAiGN",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.6,
+            11.0,
+            13.6
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "CiRCLE CAMPAiGN",
+            "artist": "サツキ feat.天音かなた",
+            "genre": "maimai",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "b95814169c410966",
+        "title": "君だったから",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.0,
+            9.6,
+            12.6
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "君だったから",
+            "artist": "中野家の五つ子",
+            "genre": "POPS＆アニメ",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "0ede230a97b6cb70",
+        "title": "Magical Paradox",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.0,
+            11.6,
+            13.6
+        ],
+        "level": [
+            "5",
+            "8",
+            "11+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Magical Paradox",
+            "artist": "Mr.Asyu",
+            "genre": "maimai",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "e2789c6199c34f12",
+        "title": "死ぬな！",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            9.6,
+            13.0
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "死ぬな！",
+            "artist": "こっちのけんと",
+            "genre": "POPS＆アニメ",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "463ca52e854f4869",
+        "title": "[音]ラビットホール",
+        "type": "UTAGE",
+        "comment": "～音取りほぼMAXバージョン～",
+        "ds": [
+            13.6
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[音]ラビットホール",
+            "artist": "DECO*27",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "b13a68ee8c85a999",
+        "title": "彩りキャンバス",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.0,
+            10.0,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "彩りキャンバス",
+            "artist": "SUGAR RUSH「ブルーアーカイブ -Blue Archive-」",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "86c38e2cb81ac90a",
+        "title": "Eureka",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.6,
+            11.6,
+            14.0
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Eureka",
+            "artist": "sasakure.UK × ArmyTom (w/z Bitplane)",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "490b7b799906ed51",
+        "title": "Overdose",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            1.0,
+            6.0,
+            9.6,
+            13.0
+        ],
+        "level": [
+            "1",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Overdose",
+            "artist": "なとり",
+            "genre": "POPS＆アニメ",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "55313d58f6159663",
+        "title": "ニルヴの心臓",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.0,
+            12.6,
+            14.0
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "ニルヴの心臓",
+            "artist": "TJ.hangneil + Atomic Sphere feat.Annabel",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "396fbb70013071f7",
+        "title": "[奏]のじゃロリック",
+        "type": "UTAGE",
+        "comment": "のじゃロリックがはじまるぞ",
+        "ds": [
+            13.0,
+            13.0
+        ],
+        "level": [
+            "13?",
+            "13?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[奏]のじゃロリック",
+            "artist": "なみぐる feat.ちょこ 桃寝ちのい",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "ff5ca30df34724ec",
+        "title": "[蛸]時空を超えて久しぶり！",
+        "type": "UTAGE",
+        "comment": "つなげたりして消すぷよ（令和最新版）",
+        "ds": [
+            12.6
+        ],
+        "level": [
+            "12+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[蛸]時空を超えて久しぶり！",
+            "artist": "アルル(CV 園崎未恵)「ぷよぷよ」",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "fe60aa61adb158a1",
+        "title": "モニタリング",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.0,
+            10.6,
+            11.6,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10+",
+            "11+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "モニタリング",
+            "artist": "DECO*27",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "e2789c6199c34f12",
+        "title": "[耐]死ぬな！",
+        "type": "UTAGE",
+        "comment": "命はひとつ",
+        "ds": [
+            13.0
+        ],
+        "level": [
+            "13?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[耐]死ぬな！",
+            "artist": "こっちのけんと",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "397c8b650c3db2a1",
+        "title": "どんぐりGAME",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.0,
+            10.0,
+            13.6
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "どんぐりGAME",
+            "artist": "こっちのけんと",
+            "genre": "POPS＆アニメ",
+            "bpm": 0,
+            "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
         }
     }
 ]
