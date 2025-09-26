@@ -33299,6 +33299,77 @@
         }
     },
     {
+        "id": "10674",
+        "title": "Magical Flavor",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.0,
+            10.0,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "Magical Flavor",
+            "artist": "DECO*27 feat.Tia",
+            "genre": "maimai",
+            "bpm": 98,
+            "release_date": "20250926",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
         "id": "675",
         "title": "白い雪のプリンセスは",
         "type": "SD",
@@ -103407,6 +103478,148 @@
             "genre": "POPS＆アニメ",
             "bpm": 130,
             "release_date": "20250918",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "503b44d4dc8fff1c",
+        "title": "エンジェル ドリーム",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.6,
+            10.0,
+            13.6
+        ],
+        "level": [
+            "3",
+            "7+",
+            "10",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    592,
+                    56,
+                    101,
+                    24,
+                    61
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "エンジェル ドリーム",
+            "artist": "「太鼓の達人」より",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20250926",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "50fa8e9ca7692f0c",
+        "title": "Hurtling Boys",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.0,
+            12.6,
+            14.0
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    694,
+                    76,
+                    92,
+                    38,
+                    31
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "Hurtling Boys",
+            "artist": "さだきち イシカダス「太鼓の達人」より",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20250926",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
             "key": ""
