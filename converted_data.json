@@ -2757,6 +2757,77 @@
         }
     },
     {
+        "id": "10077",
+        "title": "怪盗Rのテーマ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.0,
+            10.0,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "怪盗Rのテーマ",
+            "artist": "大谷智哉「リズム怪盗R 皇帝ナポレオンの遺産」",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 147,
+            "release_date": "20251016",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
         "id": "78",
         "title": "マリアをはげませ",
         "type": "SD",
@@ -103859,21 +103930,21 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    169,
+                    13,
+                    4,
+                    7,
+                    9
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    251,
+                    8,
+                    7,
+                    26,
+                    8
                 ],
                 "charter": "-"
             },
@@ -103975,6 +104046,360 @@
             "genre": "niconico＆ボーカロイド",
             "bpm": 124,
             "release_date": "20251003",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "c76c2dfb5e5ba4e5",
+        "title": "Worlders",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.0,
+            9.6,
+            12.6
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    382,
+                    17,
+                    74,
+                    3,
+                    56
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Worlders",
+            "artist": "じん / バーチャル・シンガー、Leo/need、MORE MORE JUMP！、Vivid BAD SQUAD、ワンダーランズ×ショウタイム、25時、ナイトコードで。「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 0,
+            "release_date": "20251016",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "990f36f291344332",
+        "title": "[音]snooze",
+        "type": "UTAGE",
+        "comment": "～音取りほぼMAXバージョン～",
+        "ds": [
+            13.6
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[音]snooze",
+            "artist": "wotaku feat.SHIKI",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20251016",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "9fcfc39056f4c51e",
+        "title": "[藍]絶え間なく藍色",
+        "type": "UTAGE",
+        "comment": "絶え間なく青色",
+        "ds": [
+            13.0
+        ],
+        "level": [
+            "13?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[藍]絶え間なく藍色",
+            "artist": "獅子志司",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20251016",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "0f8294359ea35f03",
+        "title": "はじまりの未来",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.0,
+            10.0,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "はじまりの未来",
+            "artist": "40mP × sasakure.UK / 初音ミク「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 0,
+            "release_date": "20251016",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "9354ec1583e9ffbb",
+        "title": "Customized Justice",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.6,
+            13.0,
+            14.6
+        ],
+        "level": [
+            "6",
+            "8+",
+            "13",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Customized Justice",
+            "artist": "Kobaryo",
+            "genre": "maimai",
+            "bpm": 0,
+            "release_date": "20251016",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "9de69d869392cae6",
+        "title": "廃墟にいますキャンペーン",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.0,
+            10.6,
+            13.6
+        ],
+        "level": [
+            "5",
+            "8",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "廃墟にいますキャンペーン",
+            "artist": "吉田夜世 feat.ちっく。",
+            "genre": "maimai",
+            "bpm": 0,
+            "release_date": "20251016",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
             "key": ""
