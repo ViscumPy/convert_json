@@ -104404,5 +104404,147 @@
             "is_new": false,
             "key": ""
         }
+    },
+    {
+        "id": "5745f4aa35faeedd",
+        "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            9.0,
+            13.2,
+            14.8
+        ],
+        "level": [
+            "6",
+            "9",
+            "13",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+            "artist": "かめりあ",
+            "genre": "maimai",
+            "bpm": 0,
+            "release_date": "20251030",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "5dd0b04bc3c1a8d4",
+        "title": "ヒアソビ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.5,
+            10.5,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    273,
+                    14,
+                    8,
+                    24,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    605,
+                    85,
+                    99,
+                    29,
+                    106
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "ヒアソビ",
+            "artist": "かめりあ",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 0,
+            "release_date": "20251030",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
     }
 ]
