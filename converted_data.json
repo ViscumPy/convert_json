@@ -104517,13 +104517,13 @@
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    332,
+                    101,
+                    35,
+                    26,
+                    25
                 ],
-                "charter": ""
+                "charter": "Luxizhel"
             },
             {
                 "notes": [
@@ -104540,7 +104540,7 @@
             "title": "ヒアソビ",
             "artist": "かめりあ",
             "genre": "niconico＆ボーカロイド",
-            "bpm": 0,
+            "bpm": 134,
             "release_date": "20251030",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
