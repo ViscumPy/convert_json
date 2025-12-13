@@ -3696,21 +3696,21 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    146,
+                    8,
+                    4,
+                    12,
+                    9
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    229,
+                    12,
+                    6,
+                    13,
+                    12
                 ],
                 "charter": "-"
             },
@@ -3722,7 +3722,7 @@
                     9,
                     72
                 ],
-                "charter": "-"
+                "charter": "サファ太"
             },
             {
                 "notes": [
@@ -3732,7 +3732,7 @@
                     15,
                     36
                 ],
-                "charter": "-"
+                "charter": "メロンポップ"
             }
         ],
         "basic_info": {
@@ -105536,6 +105536,290 @@
             "genre": "niconico＆ボーカロイド",
             "bpm": 310,
             "release_date": "20251205",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "12e822396bbf7ca1",
+        "title": "鬼女紅妖",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.0,
+            11.7,
+            14.1
+        ],
+        "level": [
+            "5",
+            "8",
+            "11+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    209,
+                    13,
+                    4,
+                    9,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    282,
+                    14,
+                    12,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    378,
+                    95,
+                    33,
+                    9,
+                    16
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    690,
+                    53,
+                    73,
+                    15,
+                    103
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "鬼女紅妖",
+            "artist": "Earliri",
+            "genre": "maimai",
+            "bpm": 165,
+            "release_date": "20251212",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "02dd6a5eb800fbbf",
+        "title": "雲外蒼電 -Dreaming Voltage-",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.7,
+            12.2,
+            13.9
+        ],
+        "level": [
+            "4",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    184,
+                    13,
+                    5,
+                    14,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    275,
+                    14,
+                    9,
+                    27,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    392,
+                    46,
+                    56,
+                    16,
+                    87
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    584,
+                    53,
+                    96,
+                    72,
+                    71
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "雲外蒼電 -Dreaming Voltage-",
+            "artist": "adaptor vs DRIVE.",
+            "genre": "maimai",
+            "bpm": 160,
+            "release_date": "20251212",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "03e15327e6423545",
+        "title": "華天月兎",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.2,
+            12.5,
+            14.4
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    193,
+                    10,
+                    9,
+                    27,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    320,
+                    10,
+                    13,
+                    41,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    366,
+                    35,
+                    54,
+                    78,
+                    14
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    593,
+                    55,
+                    100,
+                    126,
+                    14
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "華天月兎",
+            "artist": "satella feat.Risa Yuzuki",
+            "genre": "maimai",
+            "bpm": 184,
+            "release_date": "20251212",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "a9ef3210029d3530",
+        "title": "ミクマリ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            10.6,
+            13.5
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    171,
+                    11,
+                    9,
+                    8,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    315,
+                    16,
+                    12,
+                    24,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    290,
+                    74,
+                    53,
+                    31,
+                    16
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    549,
+                    59,
+                    67,
+                    73,
+                    29
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "ミクマリ",
+            "artist": "テヅカ",
+            "genre": "maimai",
+            "bpm": 174,
+            "release_date": "20251212",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
             "key": ""
