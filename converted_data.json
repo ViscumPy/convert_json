@@ -104548,77 +104548,6 @@
         }
     },
     {
-        "id": "5745f4aa35faeedd",
-        "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
-        "type": "DX",
-        "comment": "",
-        "ds": [
-            6.0,
-            9.0,
-            13.2,
-            14.8
-        ],
-        "level": [
-            "6",
-            "9",
-            "13",
-            "14+"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "charter": ""
-            },
-            {
-                "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "charter": ""
-            }
-        ],
-        "basic_info": {
-            "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
-            "artist": "かめりあ",
-            "genre": "maimai",
-            "bpm": 0,
-            "release_date": "20251030",
-            "from": "maimai でらっくす RECODE",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
         "id": "5dd0b04bc3c1a8d4",
         "title": "ヒアソビ",
         "type": "DX",
@@ -104690,71 +104619,71 @@
         }
     },
     {
-        "id": "57d2dacfaffc601f",
-        "title": "Eternal Return",
+        "id": "5745f4aa35faeedd",
+        "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
         "type": "DX",
         "comment": "",
         "ds": [
-            4.0,
-            7.8,
-            11.0,
-            13.8
+            6.0,
+            9.0,
+            13.2,
+            14.8
         ],
         "level": [
-            "4",
-            "7+",
-            "11",
-            "13+"
+            "6",
+            "9",
+            "13",
+            "14+"
         ],
         "cids": [],
         "charts": [
             {
                 "notes": [
-                    197,
-                    17,
-                    4,
-                    6,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    289,
+                    180,
                     16,
-                    12,
-                    24,
-                    4
+                    10,
+                    6,
+                    3
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    363,
-                    103,
-                    43,
-                    44,
-                    8
+                    392,
+                    12,
+                    10,
+                    12,
+                    2
                 ],
-                "charter": "はっぴー"
+                "charter": "-"
             },
             {
                 "notes": [
-                    624,
-                    56,
-                    112,
-                    77,
-                    28
+                    655,
+                    70,
+                    22,
+                    34,
+                    27
                 ],
-                "charter": "カマボコ君"
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    823,
+                    72,
+                    37,
+                    110,
+                    150
+                ],
+                "charter": "Safari"
             }
         ],
         "basic_info": {
-            "title": "Eternal Return",
-            "artist": "Tatsunoshin & Aira Arere",
+            "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+            "artist": "かめりあ",
             "genre": "maimai",
-            "bpm": 180,
-            "release_date": "20251107",
+            "bpm": 132,
+            "release_date": "20251030",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
             "key": ""
@@ -104832,70 +104761,70 @@
         }
     },
     {
-        "id": "9ba20e7aa22358c0",
-        "title": "真空都市",
+        "id": "57d2dacfaffc601f",
+        "title": "Eternal Return",
         "type": "DX",
         "comment": "",
         "ds": [
             4.0,
             7.8,
-            10.8,
-            13.4
+            11.0,
+            13.8
         ],
         "level": [
             "4",
             "7+",
-            "10+",
-            "13"
+            "11",
+            "13+"
         ],
         "cids": [],
         "charts": [
             {
                 "notes": [
-                    223,
-                    12,
-                    5,
-                    7,
-                    3
+                    197,
+                    17,
+                    4,
+                    6,
+                    6
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    335,
+                    289,
                     16,
-                    11,
-                    48,
-                    7
+                    12,
+                    24,
+                    4
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    392,
-                    77,
-                    35,
-                    36,
-                    14
+                    363,
+                    103,
+                    43,
+                    44,
+                    8
                 ],
-                "charter": "Luxizhel"
+                "charter": "はっぴー"
             },
             {
                 "notes": [
-                    592,
-                    27,
-                    66,
-                    38,
-                    29
+                    624,
+                    56,
+                    112,
+                    77,
+                    28
                 ],
-                "charter": "サファ太"
+                "charter": "カマボコ君"
             }
         ],
         "basic_info": {
-            "title": "真空都市",
-            "artist": "ナナツカゼ",
+            "title": "Eternal Return",
+            "artist": "Tatsunoshin & Aira Arere",
             "genre": "maimai",
-            "bpm": 185,
+            "bpm": 180,
             "release_date": "20251107",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
@@ -104974,70 +104903,212 @@
         }
     },
     {
-        "id": "c0d254699da52834",
-        "title": "最愛人生ランナー",
+        "id": "9ba20e7aa22358c0",
+        "title": "真空都市",
         "type": "DX",
         "comment": "",
         "ds": [
             4.0,
             7.8,
-            11.0,
-            13.7
+            10.8,
+            13.4
         ],
         "level": [
             "4",
             "7+",
-            "11",
-            "13+"
+            "10+",
+            "13"
         ],
         "cids": [],
         "charts": [
             {
                 "notes": [
-                    216,
-                    22,
+                    223,
+                    12,
                     5,
-                    8,
+                    7,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    335,
+                    16,
+                    11,
+                    48,
                     7
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    338,
-                    26,
+                    392,
+                    77,
+                    35,
+                    36,
+                    14
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    592,
+                    27,
+                    66,
+                    38,
+                    29
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "真空都市",
+            "artist": "ナナツカゼ",
+            "genre": "maimai",
+            "bpm": 185,
+            "release_date": "20251107",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "1485239e3d0e6582",
+        "title": "ウィーアーピコピコハンマーズ!!!!",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.5,
+            10.8,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    231,
+                    14,
+                    6,
                     8,
-                    22,
-                    8
+                    12
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    496,
-                    99,
-                    62,
-                    9,
-                    70
+                    368,
+                    21,
+                    4,
+                    25,
+                    11
                 ],
-                "charter": "サファ太"
+                "charter": "-"
             },
             {
                 "notes": [
-                    735,
-                    61,
-                    151,
-                    44,
-                    63
+                    444,
+                    34,
+                    24,
+                    34,
+                    44
                 ],
                 "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    692,
+                    76,
+                    119,
+                    22,
+                    129
+                ],
+                "charter": "サファ太"
             }
         ],
         "basic_info": {
-            "title": "最愛人生ランナー",
-            "artist": "かいりきベア",
+            "title": "ウィーアーピコピコハンマーズ!!!!",
+            "artist": "cosMo＠暴走P",
             "genre": "niconico＆ボーカロイド",
-            "bpm": 180,
+            "bpm": 202,
+            "release_date": "20251120",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "379487e70854a466",
+        "title": "ジェットブラック",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.5,
+            10.2,
+            13.2
+        ],
+        "level": [
+            "4",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    180,
+                    12,
+                    10,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    323,
+                    18,
+                    6,
+                    26,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    417,
+                    56,
+                    40,
+                    21,
+                    7
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    548,
+                    65,
+                    113,
+                    30,
+                    52
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "ジェットブラック",
+            "artist": "雄之助",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 170,
             "release_date": "20251120",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
@@ -105187,141 +105258,70 @@
         }
     },
     {
-        "id": "1485239e3d0e6582",
-        "title": "ウィーアーピコピコハンマーズ!!!!",
+        "id": "c0d254699da52834",
+        "title": "最愛人生ランナー",
         "type": "DX",
         "comment": "",
         "ds": [
-            5.0,
-            8.5,
-            10.8,
-            13.9
+            4.0,
+            7.8,
+            11.0,
+            13.7
         ],
         "level": [
-            "5",
-            "8",
-            "10+",
+            "4",
+            "7+",
+            "11",
             "13+"
         ],
         "cids": [],
         "charts": [
             {
                 "notes": [
-                    231,
-                    14,
-                    6,
-                    8,
-                    12
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    368,
-                    21,
-                    4,
-                    25,
-                    11
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    444,
-                    34,
-                    24,
-                    34,
-                    44
-                ],
-                "charter": "Luxizhel"
-            },
-            {
-                "notes": [
-                    692,
-                    76,
-                    119,
+                    216,
                     22,
-                    129
-                ],
-                "charter": "サファ太"
-            }
-        ],
-        "basic_info": {
-            "title": "ウィーアーピコピコハンマーズ!!!!",
-            "artist": "cosMo＠暴走P",
-            "genre": "niconico＆ボーカロイド",
-            "bpm": 202,
-            "release_date": "20251120",
-            "from": "maimai でらっくす RECODE",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": "379487e70854a466",
-        "title": "ジェットブラック",
-        "type": "DX",
-        "comment": "",
-        "ds": [
-            4.0,
-            7.5,
-            10.2,
-            13.2
-        ],
-        "level": [
-            "4",
-            "7",
-            "10",
-            "13"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    180,
-                    12,
-                    10,
-                    6,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    323,
-                    18,
-                    6,
-                    26,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    417,
-                    56,
-                    40,
-                    21,
+                    5,
+                    8,
                     7
                 ],
-                "charter": "はっぴー"
+                "charter": "-"
             },
             {
                 "notes": [
-                    548,
-                    65,
-                    113,
-                    30,
-                    52
+                    338,
+                    26,
+                    8,
+                    22,
+                    8
                 ],
-                "charter": "じゃこレモン"
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    496,
+                    99,
+                    62,
+                    9,
+                    70
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    735,
+                    61,
+                    151,
+                    44,
+                    63
+                ],
+                "charter": "Luxizhel"
             }
         ],
         "basic_info": {
-            "title": "ジェットブラック",
-            "artist": "雄之助",
+            "title": "最愛人生ランナー",
+            "artist": "かいりきベア",
             "genre": "niconico＆ボーカロイド",
-            "bpm": 170,
+            "bpm": 180,
             "release_date": "20251120",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
@@ -105542,6 +105542,77 @@
         }
     },
     {
+        "id": "a9ef3210029d3530",
+        "title": "ミクマリ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            10.6,
+            13.5
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    171,
+                    11,
+                    9,
+                    8,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    315,
+                    16,
+                    12,
+                    24,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    290,
+                    74,
+                    53,
+                    31,
+                    16
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    549,
+                    59,
+                    67,
+                    73,
+                    29
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "ミクマリ",
+            "artist": "テヅカ",
+            "genre": "maimai",
+            "bpm": 174,
+            "release_date": "20251212",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
         "id": "12e822396bbf7ca1",
         "title": "鬼女紅妖",
         "type": "DX",
@@ -105606,77 +105677,6 @@
             "artist": "Earliri",
             "genre": "maimai",
             "bpm": 165,
-            "release_date": "20251212",
-            "from": "maimai でらっくす RECODE",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": "02dd6a5eb800fbbf",
-        "title": "雲外蒼電 -Dreaming Voltage-",
-        "type": "DX",
-        "comment": "",
-        "ds": [
-            4.0,
-            7.7,
-            12.2,
-            13.9
-        ],
-        "level": [
-            "4",
-            "7+",
-            "12",
-            "13+"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    184,
-                    13,
-                    5,
-                    14,
-                    7
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    275,
-                    14,
-                    9,
-                    27,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    392,
-                    46,
-                    56,
-                    16,
-                    87
-                ],
-                "charter": "サファ太"
-            },
-            {
-                "notes": [
-                    584,
-                    53,
-                    96,
-                    72,
-                    71
-                ],
-                "charter": "Luxizhel"
-            }
-        ],
-        "basic_info": {
-            "title": "雲外蒼電 -Dreaming Voltage-",
-            "artist": "adaptor vs DRIVE.",
-            "genre": "maimai",
-            "bpm": 160,
             "release_date": "20251212",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
@@ -105755,142 +105755,71 @@
         }
     },
     {
-        "id": "a9ef3210029d3530",
-        "title": "ミクマリ",
+        "id": "02dd6a5eb800fbbf",
+        "title": "雲外蒼電 -Dreaming Voltage-",
         "type": "DX",
         "comment": "",
         "ds": [
             4.0,
-            7.8,
-            10.6,
-            13.5
+            7.7,
+            12.2,
+            13.9
         ],
         "level": [
             "4",
             "7+",
-            "10+",
-            "13"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    171,
-                    11,
-                    9,
-                    8,
-                    9
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    315,
-                    16,
-                    12,
-                    24,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    290,
-                    74,
-                    53,
-                    31,
-                    16
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    549,
-                    59,
-                    67,
-                    73,
-                    29
-                ],
-                "charter": "アマリリス"
-            }
-        ],
-        "basic_info": {
-            "title": "ミクマリ",
-            "artist": "テヅカ",
-            "genre": "maimai",
-            "bpm": 174,
-            "release_date": "20251212",
-            "from": "maimai でらっくす RECODE",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": "c467dedfe621ce57",
-        "title": "JINGLE DEATH",
-        "type": "DX",
-        "comment": "",
-        "ds": [
-            5.0,
-            8.2,
-            12.4,
-            14.1
-        ],
-        "level": [
-            "5",
-            "8",
             "12",
-            "14"
+            "13+"
         ],
         "cids": [],
         "charts": [
             {
                 "notes": [
-                    172,
-                    12,
-                    8,
-                    12,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    372,
-                    18,
-                    7,
+                    184,
                     13,
-                    8
+                    5,
+                    14,
+                    7
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    402,
-                    52,
-                    47,
-                    21,
-                    26
+                    275,
+                    14,
+                    9,
+                    27,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    392,
+                    46,
+                    56,
+                    16,
+                    87
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    584,
+                    53,
+                    96,
+                    72,
+                    71
                 ],
                 "charter": "Luxizhel"
-            },
-            {
-                "notes": [
-                    563,
-                    46,
-                    103,
-                    92,
-                    55
-                ],
-                "charter": "ロシェ@ペンギン"
             }
         ],
         "basic_info": {
-            "title": "JINGLE DEATH",
-            "artist": "DJ Myosuke & Gram",
-            "genre": "ゲーム＆バラエティ",
-            "bpm": 0,
-            "release_date": "20251224",
+            "title": "雲外蒼電 -Dreaming Voltage-",
+            "artist": "adaptor vs DRIVE.",
+            "genre": "maimai",
+            "bpm": 160,
+            "release_date": "20251212",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
             "key": ""
@@ -106039,41 +105968,6 @@
         }
     },
     {
-        "id": "0efa58724b907097",
-        "title": "[一]もうみんなしねばいいのに",
-        "type": "UTAGE",
-        "comment": "どいつもこいつもリア充しやがって！",
-        "ds": [
-            14.6
-        ],
-        "level": [
-            "14+?"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[一]もうみんなしねばいいのに",
-            "artist": "谷屋楽",
-            "genre": "宴会場",
-            "bpm": 0,
-            "release_date": "20251224",
-            "from": "maimai でらっくす RECODE",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
         "id": "503b44d4dc8fff1c",
         "title": "[充]エンジェル ドリーム",
         "type": "UTAGE",
@@ -106121,21 +106015,15 @@
         }
     },
     {
-        "id": "67c30af72f7293e4",
-        "title": "化けの花",
-        "type": "DX",
-        "comment": "",
+        "id": "0efa58724b907097",
+        "title": "[一]もうみんなしねばいいのに",
+        "type": "UTAGE",
+        "comment": "どいつもこいつもリア充しやがって！",
         "ds": [
-            4.0,
-            7.2,
-            11.0,
-            13.4
+            14.6
         ],
         "level": [
-            "4",
-            "7",
-            "11",
-            "13"
+            "14+?"
         ],
         "cids": [],
         "charts": [
@@ -106148,43 +106036,155 @@
                     0
                 ],
                 "charter": "-"
-            },
+            }
+        ],
+        "basic_info": {
+            "title": "[一]もうみんなしねばいいのに",
+            "artist": "谷屋楽",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20251224",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "c467dedfe621ce57",
+        "title": "JINGLE DEATH",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.2,
+            12.4,
+            14.1
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    172,
+                    12,
+                    8,
+                    12,
+                    4
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    372,
+                    18,
+                    7,
+                    13,
+                    8
                 ],
-                "charter": ""
+                "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    402,
+                    52,
+                    47,
+                    21,
+                    26
                 ],
-                "charter": ""
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    563,
+                    46,
+                    103,
+                    92,
+                    55
+                ],
+                "charter": "ロシェ@ペンギン"
             }
         ],
         "basic_info": {
-            "title": "化けの花",
-            "artist": "なきそ",
-            "genre": "niconico＆ボーカロイド",
+            "title": "JINGLE DEATH",
+            "artist": "DJ Myosuke & Gram",
+            "genre": "ゲーム＆バラエティ",
             "bpm": 0,
+            "release_date": "20251224",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "299dad20075dc4c4",
+        "title": "うい麦畑でつかまえて",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.8,
+            13.2
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    187,
+                    19,
+                    5,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    309,
+                    16,
+                    11,
+                    26,
+                    15
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    398,
+                    46,
+                    52,
+                    22,
+                    84
+                ],
+                "charter": "おそろっちーぬ"
+            },
+            {
+                "notes": [
+                    653,
+                    56,
+                    127,
+                    59,
+                    74
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "うい麦畑でつかまえて",
+            "artist": "しぐれうい",
+            "genre": "POPS＆アニメ",
+            "bpm": 168,
             "release_date": "20260109",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
@@ -106212,50 +106212,50 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    135,
+                    6,
+                    4,
+                    19,
+                    20
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    264,
+                    16,
+                    10,
+                    18,
+                    22
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    340,
+                    96,
+                    25,
+                    31,
+                    115
                 ],
-                "charter": ""
+                "charter": "はっぴー"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    414,
+                    127,
+                    86,
+                    178,
+                    123
                 ],
-                "charter": ""
+                "charter": "ぴちネコ"
             }
         ],
         "basic_info": {
             "title": "み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ",
             "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ",
             "genre": "niconico＆ボーカロイド",
-            "bpm": 0,
+            "bpm": 126,
             "release_date": "20260109",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
@@ -106283,50 +106283,50 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    179,
+                    22,
+                    5,
+                    10,
+                    6
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    333,
+                    20,
+                    15,
+                    28,
+                    5
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    342,
+                    68,
+                    38,
+                    40,
+                    30
                 ],
-                "charter": ""
+                "charter": "サファ太"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    545,
+                    42,
+                    86,
+                    58,
+                    18
                 ],
-                "charter": ""
+                "charter": "Jack"
             }
         ],
         "basic_info": {
             "title": "勝手に生きましょ",
             "artist": "しぐれうい",
             "genre": "POPS＆アニメ",
-            "bpm": 0,
+            "bpm": 176,
             "release_date": "20260109",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
@@ -106334,20 +106334,162 @@
         }
     },
     {
-        "id": "299dad20075dc4c4",
-        "title": "うい麦畑でつかまえて",
+        "id": "67c30af72f7293e4",
+        "title": "化けの花",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.2,
+            11.0,
+            13.4
+        ],
+        "level": [
+            "4",
+            "7",
+            "11",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    135,
+                    11,
+                    4,
+                    19,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    235,
+                    15,
+                    10,
+                    25,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    349,
+                    38,
+                    52,
+                    30,
+                    16
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    484,
+                    59,
+                    87,
+                    63,
+                    48
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "化けの花",
+            "artist": "なきそ",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 180,
+            "release_date": "20260109",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "fff8332aea8283cd",
+        "title": "アイアイ傘",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.0,
+            9.7,
+            12.9
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    135,
+                    9,
+                    4,
+                    5,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    230,
+                    8,
+                    7,
+                    13,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    296,
+                    50,
+                    26,
+                    23,
+                    22
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    373,
+                    12,
+                    173,
+                    15,
+                    14
+                ],
+                "charter": "きょむりん & はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "アイアイ傘",
+            "artist": "ハム feat. 雨衣",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 116,
+            "release_date": "20260109",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "8e5cbe0e7b8a325b",
+        "title": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP",
         "type": "DX",
         "comment": "",
         "ds": [
             3.0,
-            7.0,
-            10.8,
-            13.2
+            6.5,
+            9.9,
+            13.3
         ],
         "level": [
             "3",
-            "7",
-            "10+",
+            "6",
+            "9+",
             "13"
         ],
         "cids": [],
@@ -106394,32 +106536,26 @@
             }
         ],
         "basic_info": {
-            "title": "うい麦畑でつかまえて",
-            "artist": "しぐれうい",
+            "title": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP",
+            "artist": "3markets[ ]",
             "genre": "POPS＆アニメ",
-            "bpm": 0,
-            "release_date": "20260109",
+            "bpm": 150,
+            "release_date": "20260116",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
             "key": ""
         }
     },
     {
-        "id": "fff8332aea8283cd",
-        "title": "アイアイ傘",
-        "type": "DX",
-        "comment": "",
+        "id": "967e724b039ec9dc",
+        "title": "[鏡]MIRROR of MAGIC",
+        "type": "UTAGE",
+        "comment": "MIRROR of ADVANCED(↻)",
         "ds": [
-            2.0,
-            6.0,
-            9.7,
-            12.9
+            12.0
         ],
         "level": [
-            "2",
-            "6",
-            "9+",
-            "12+"
+            "12?"
         ],
         "cids": [],
         "charts": [
@@ -106432,7 +106568,32 @@
                     0
                 ],
                 "charter": "-"
-            },
+            }
+        ],
+        "basic_info": {
+            "title": "[鏡]MIRROR of MAGIC",
+            "artist": "Shoichiro Hirata feat.SUIMI",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20260116",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "3f2d512deca0579b",
+        "title": "[邪]アマノジャクリバース feat. ｙｔｒ",
+        "type": "UTAGE",
+        "comment": "ぜたっ作を面譜なルワジイ",
+        "ds": [
+            13.6
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [],
+        "charts": [
             {
                 "notes": [
                     0,
@@ -106442,34 +106603,14 @@
                     0
                 ],
                 "charter": "-"
-            },
-            {
-                "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "charter": ""
-            },
-            {
-                "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "charter": ""
             }
         ],
         "basic_info": {
-            "title": "アイアイ傘",
-            "artist": "ハム feat. 雨衣",
-            "genre": "niconico＆ボーカロイド",
+            "title": "[邪]アマノジャクリバース feat. ｙｔｒ",
+            "artist": "魂音泉",
+            "genre": "宴会場",
             "bpm": 0,
-            "release_date": "20260109",
+            "release_date": "20260116",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
             "key": ""
