@@ -225,7 +225,7 @@
         "level": [
             "6",
             "6",
-            "9",
+            "9+",
             "11+"
         ],
         "cids": [],
@@ -448,7 +448,7 @@
         ],
         "level": [
             "4",
-            "7",
+            "7+",
             "8+",
             "11",
             "14"
@@ -93435,11 +93435,11 @@
             },
             {
                 "notes": [
-                    963,
                     578,
                     148,
                     2,
-                    47
+                    47,
+                    188
                 ],
                 "charter": "-"
             }
@@ -95655,7 +95655,7 @@
             "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
             "artist": "かめりあ",
             "genre": "maimai",
-            "bpm": 0,
+            "bpm": 132,
             "release_date": "20251030",
             "from": "maimai でらっくす PRiSM",
             "is_new": true,
@@ -97357,6 +97357,1991 @@
             "genre": "ゲーム＆バラエティ",
             "bpm": 112,
             "release_date": "20251219",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "35ca863f15d7624f",
+        "title": "MIRA",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.0,
+            9.5,
+            12.9
+        ],
+        "level": [
+            "2",
+            "6",
+            "9",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    118,
+                    10,
+                    4,
+                    18,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    248,
+                    12,
+                    8,
+                    11,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    236,
+                    43,
+                    39,
+                    8,
+                    8
+                ],
+                "charter": "カマボコ君"
+            },
+            {
+                "notes": [
+                    311,
+                    40,
+                    49,
+                    87,
+                    53
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "MIRA",
+            "artist": "Kanaria",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 148,
+            "release_date": "20251226",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "d089a333ff0c746d",
+        "title": "ありきたりな恋の歌",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.5,
+            10.5,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7",
+            "10",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    208,
+                    8,
+                    4,
+                    18,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    343,
+                    19,
+                    9,
+                    12,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    411,
+                    89,
+                    25,
+                    28,
+                    24
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    503,
+                    53,
+                    122,
+                    136,
+                    117
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "ありきたりな恋の歌",
+            "artist": "GYARI",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 180,
+            "release_date": "20251226",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "143a62b2d78eca40",
+        "title": "空回りライブラリ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            9.7,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    152,
+                    9,
+                    4,
+                    9,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    267,
+                    16,
+                    4,
+                    11,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    297,
+                    32,
+                    37,
+                    13,
+                    39
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    484,
+                    55,
+                    87,
+                    17,
+                    24
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "空回りライブラリ",
+            "artist": "雪乃イト",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 130,
+            "release_date": "20251226",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "25f700cd2c5eb52b",
+        "title": "お呪い",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.2,
+            10.2,
+            13.0
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    92,
+                    7,
+                    6,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    205,
+                    8,
+                    6,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    210,
+                    78,
+                    10,
+                    18,
+                    21
+                ],
+                "charter": "きょむりん"
+            },
+            {
+                "notes": [
+                    382,
+                    16,
+                    73,
+                    39,
+                    39
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "お呪い",
+            "artist": "なきそ",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 115,
+            "release_date": "20251226",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "ac704a32c62481ed",
+        "title": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
+        "type": "UTAGE",
+        "comment": "さらに言うことを聞いてくれるアカネチャン",
+        "ds": [
+            13.0,
+            13.0
+        ],
+        "level": [
+            "13?",
+            "13?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    642,
+                    44,
+                    41,
+                    7,
+                    49
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    112,
+                    58,
+                    0,
+                    184,
+                    142
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
+            "artist": "GYARI",
+            "genre": "宴会場",
+            "bpm": 144,
+            "release_date": "20251226",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "d089a333ff0c746d",
+        "title": "[騒]ありきたりな恋の歌",
+        "type": "UTAGE",
+        "comment": "花隈の歌は可愛いし小春六花はマジでうるさい",
+        "ds": [
+            13.6,
+            13.6
+        ],
+        "level": [
+            "13+?",
+            "13+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    544,
+                    89,
+                    77,
+                    14,
+                    24
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    239,
+                    40,
+                    67,
+                    235,
+                    263
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[騒]ありきたりな恋の歌",
+            "artist": "GYARI",
+            "genre": "宴会場",
+            "bpm": 180,
+            "release_date": "20251226",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "5a5e8baece4c8dc4",
+        "title": "[耐]星界ちゃんと可不ちゃんのおつかい合騒曲",
+        "type": "UTAGE",
+        "comment": "せかせかせかせかせかせかせかせかせかせか",
+        "ds": [
+            14.0
+        ],
+        "level": [
+            "14?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    866,
+                    21,
+                    277,
+                    84,
+                    49
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[耐]星界ちゃんと可不ちゃんのおつかい合騒曲",
+            "artist": "南ノ南",
+            "genre": "宴会場",
+            "bpm": 220,
+            "release_date": "20251226",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "efa1f420c755d481",
+        "title": "Pixel Galaxy",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.4,
+            9.9,
+            13.1
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    130,
+                    10,
+                    8,
+                    13,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    285,
+                    13,
+                    12,
+                    21,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    301,
+                    70,
+                    30,
+                    31,
+                    59
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    523,
+                    49,
+                    76,
+                    13,
+                    60
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "Pixel Galaxy",
+            "artist": "Snail's House",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 150,
+            "release_date": "20260109",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "e01e7560acc1348d",
+        "title": "∀",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.2,
+            11.9,
+            14.2
+        ],
+        "level": [
+            "6",
+            "8",
+            "11+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    195,
+                    17,
+                    4,
+                    8,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    335,
+                    8,
+                    9,
+                    9,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    378,
+                    42,
+                    30,
+                    9,
+                    29
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    474,
+                    61,
+                    56,
+                    49,
+                    30
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "∀",
+            "artist": "ああああ",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 245,
+            "release_date": "20260109",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "363781207ec5dea8",
+        "title": "Bring it on",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            10.2,
+            13.4
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    141,
+                    10,
+                    6,
+                    10,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    233,
+                    10,
+                    10,
+                    28,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    281,
+                    31,
+                    40,
+                    29,
+                    56
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    572,
+                    84,
+                    87,
+                    59,
+                    22
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Bring it on",
+            "artist": "ROF-MAO",
+            "genre": "POPS＆アニメ",
+            "bpm": 143,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "490b7b799906ed51",
+        "title": "Overdose",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            1.0,
+            6.5,
+            9.7,
+            13.0
+        ],
+        "level": [
+            "1",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    84,
+                    10,
+                    3,
+                    4,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    181,
+                    8,
+                    4,
+                    11,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    214,
+                    12,
+                    32,
+                    12,
+                    14
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    336,
+                    23,
+                    88,
+                    6,
+                    15
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "Overdose",
+            "artist": "なとり",
+            "genre": "POPS＆アニメ",
+            "bpm": 118,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "397c8b650c3db2a1",
+        "title": "どんぐりGAME",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.5,
+            10.2,
+            13.6
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    134,
+                    13,
+                    4,
+                    10,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    207,
+                    19,
+                    7,
+                    28,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    237,
+                    91,
+                    33,
+                    39,
+                    20
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    326,
+                    13,
+                    189,
+                    57,
+                    23
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "どんぐりGAME",
+            "artist": "こっちのけんと",
+            "genre": "POPS＆アニメ",
+            "bpm": 130,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "e2789c6199c34f12",
+        "title": "死ぬな！",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.5,
+            9.8,
+            13.3
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    141,
+                    19,
+                    4,
+                    19,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    296,
+                    11,
+                    7,
+                    13,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    269,
+                    48,
+                    43,
+                    0,
+                    15
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    457,
+                    32,
+                    64,
+                    58,
+                    30
+                ],
+                "charter": "ロシェ@ペンギン"
+            }
+        ],
+        "basic_info": {
+            "title": "死ぬな！",
+            "artist": "こっちのけんと",
+            "genre": "POPS＆アニメ",
+            "bpm": 220,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "fe60aa61adb158a1",
+        "title": "モニタリング",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.2,
+            10.7,
+            11.8,
+            13.4
+        ],
+        "level": [
+            "3",
+            "6",
+            "10+",
+            "11+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    123,
+                    11,
+                    4,
+                    8,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    202,
+                    8,
+                    9,
+                    26,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    330,
+                    49,
+                    60,
+                    17,
+                    17
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    344,
+                    26,
+                    97,
+                    19,
+                    11
+                ],
+                "charter": "緑風 犬三郎"
+            },
+            {
+                "notes": [
+                    439,
+                    43,
+                    102,
+                    31,
+                    31
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "モニタリング",
+            "artist": "DECO*27",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 132,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "6ceb98c44af7be68",
+        "title": "サイエンス",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.7,
+            10.0,
+            13.0
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    162,
+                    13,
+                    8,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    356,
+                    12,
+                    6,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    359,
+                    72,
+                    47,
+                    42,
+                    12
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    530,
+                    61,
+                    93,
+                    32,
+                    34
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "サイエンス",
+            "artist": "MIMI",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 188,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "9bba8b74ff4eab24",
+        "title": "テトリス",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.0,
+            10.8,
+            12.0,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "12",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    218,
+                    7,
+                    4,
+                    9,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    320,
+                    19,
+                    8,
+                    24,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    346,
+                    65,
+                    60,
+                    26,
+                    64
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    545,
+                    20,
+                    142,
+                    13,
+                    21
+                ],
+                "charter": "緑風 犬三郎"
+            },
+            {
+                "notes": [
+                    618,
+                    38,
+                    171,
+                    55,
+                    59
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "テトリス",
+            "artist": "柊マグネタイト",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 170,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "0448563f0cb284ef",
+        "title": "有頂天ドリーマーズ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.2,
+            10.8,
+            13.1
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    135,
+                    13,
+                    4,
+                    7,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    14,
+                    7,
+                    13,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    330,
+                    56,
+                    21,
+                    17,
+                    22
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    481,
+                    37,
+                    74,
+                    18,
+                    35
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "有頂天ドリーマーズ",
+            "artist": "森羅万象",
+            "genre": "東方Project",
+            "bpm": 188,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "86c38e2cb81ac90a",
+        "title": "Eureka",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.7,
+            11.8,
+            14.1
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    172,
+                    10,
+                    5,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    28,
+                    8,
+                    24,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    294,
+                    88,
+                    46,
+                    23,
+                    24
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    629,
+                    112,
+                    72,
+                    60,
+                    34
+                ],
+                "charter": "Luxizhel vs サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Eureka",
+            "artist": "sasakure.UK × ArmyTom (w/z Bitplane)",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 150,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "ba639bf8d279f397",
+        "title": "Unwelcome School",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.2,
+            10.7,
+            12.2,
+            14.0
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    172,
+                    9,
+                    4,
+                    10,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    258,
+                    12,
+                    6,
+                    28,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    326,
+                    76,
+                    48,
+                    16,
+                    13
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    566,
+                    29,
+                    95,
+                    33,
+                    22
+                ],
+                "charter": "緑風 犬三郎"
+            },
+            {
+                "notes": [
+                    706,
+                    17,
+                    152,
+                    37,
+                    48
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Unwelcome School",
+            "artist": "Mitsukiyo「ブルーアーカイブ -Blue Archive-」",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 180,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "b13a68ee8c85a999",
+        "title": "彩りキャンバス",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            10.2,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    88,
+                    13,
+                    2,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    169,
+                    16,
+                    8,
+                    11,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    235,
+                    28,
+                    30,
+                    20,
+                    15
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    333,
+                    28,
+                    56,
+                    22,
+                    27
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "彩りキャンバス",
+            "artist": "SUGAR RUSH「ブルーアーカイブ -Blue Archive-」",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 180,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "55313d58f6159663",
+        "title": "ニルヴの心臓",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.0,
+            12.7,
+            14.3
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    278,
+                    8,
+                    12,
+                    9,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    340,
+                    15,
+                    8,
+                    28,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    506,
+                    97,
+                    18,
+                    43,
+                    9
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    585,
+                    111,
+                    72,
+                    33,
+                    79
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ニルヴの心臓",
+            "artist": "TJ.hangneil + Atomic Sphere feat.Annabel",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 256,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "ec439357b2e17145",
+        "title": "CiRCLE CAMPAiGN",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            11.0,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    223,
+                    9,
+                    8,
+                    6,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    337,
+                    18,
+                    15,
+                    28,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    418,
+                    65,
+                    54,
+                    19,
+                    63
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    661,
+                    40,
+                    188,
+                    37,
+                    39
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "CiRCLE CAMPAiGN",
+            "artist": "サツキ feat.天音かなた",
+            "genre": "maimai",
+            "bpm": 182,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "0ede230a97b6cb70",
+        "title": "Magical Paradox",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.5,
+            11.7,
+            13.8
+        ],
+        "level": [
+            "5",
+            "8",
+            "11+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    227,
+                    30,
+                    4,
+                    15,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    319,
+                    16,
+                    13,
+                    46,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    365,
+                    84,
+                    68,
+                    47,
+                    22
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    737,
+                    82,
+                    102,
+                    45,
+                    86
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Magical Paradox",
+            "artist": "Mr.Asyu",
+            "genre": "maimai",
+            "bpm": 192,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": "【需要解禁】"
+        }
+    },
+    {
+        "id": "8b1d4ada02babe00",
+        "title": "殿ッ！？ご乱心！？",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.0,
+            12.7,
+            14.2
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    258,
+                    14,
+                    6,
+                    13,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    264,
+                    25,
+                    12,
+                    30,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    434,
+                    62,
+                    53,
+                    15,
+                    69
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    498,
+                    81,
+                    98,
+                    96,
+                    112
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "殿ッ！？ご乱心！？",
+            "artist": "Shu feat. 天羽しろっぷ",
+            "genre": "maimai",
+            "bpm": 200,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": "【需要解禁】"
+        }
+    },
+    {
+        "id": "7e0a656d5b1753ac",
+        "title": "Dazzle hop",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            9.0,
+            12.8,
+            14.2
+        ],
+        "level": [
+            "6",
+            "9",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    229,
+                    5,
+                    11,
+                    14,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    389,
+                    12,
+                    19,
+                    24,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    470,
+                    98,
+                    79,
+                    12,
+                    75
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    593,
+                    58,
+                    111,
+                    78,
+                    13
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Dazzle hop",
+            "artist": "Sampling Masters MEGA",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 220,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "c74cbc076d38f358",
+        "title": "イーヴィルガール",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            11.2,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    196,
+                    15,
+                    4,
+                    6,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    345,
+                    18,
+                    8,
+                    28,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    438,
+                    99,
+                    62,
+                    18,
+                    25
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    782,
+                    128,
+                    78,
+                    65,
+                    67
+                ],
+                "charter": "Luxizhel & 鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "イーヴィルガール",
+            "artist": "Fushi feat.吉乃",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 180,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "ff5ca30df34724ec",
+        "title": "[蛸]時空を超えて久しぶり！",
+        "type": "UTAGE",
+        "comment": "つなげたりして消すぷよ（令和最新版）",
+        "ds": [
+            12.6
+        ],
+        "level": [
+            "12+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    478,
+                    119,
+                    18,
+                    20,
+                    8
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[蛸]時空を超えて久しぶり！",
+            "artist": "アルル(CV 園崎未恵)「ぷよぷよ」",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "396fbb70013071f7",
+        "title": "[奏]のじゃロリック",
+        "type": "UTAGE",
+        "comment": "のじゃロリックがはじまるぞ",
+        "ds": [
+            13.0,
+            13.0
+        ],
+        "level": [
+            "13?",
+            "13?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    577,
+                    66,
+                    73,
+                    17,
+                    110
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    581,
+                    62,
+                    75,
+                    23,
+                    83
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[奏]のじゃロリック",
+            "artist": "なみぐる feat.ちょこ 桃寝ちのい",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "693ed3f8ef555432",
+        "title": "[餡]隠密あんみつDX",
+        "type": "UTAGE",
+        "comment": "いい感じに同時押しするといい感じになる！",
+        "ds": [
+            12.6
+        ],
+        "level": [
+            "12+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    444,
+                    10,
+                    8,
+                    0,
+                    278
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[餡]隠密あんみつDX",
+            "artist": "カルロス袴田 feat. 日南めい, 古川由彩",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "463ca52e854f4869",
+        "title": "[音]ラビットホール",
+        "type": "UTAGE",
+        "comment": "～音取りほぼMAXバージョン～",
+        "ds": [
+            13.6
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    956,
+                    19,
+                    120,
+                    32,
+                    68
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[音]ラビットホール",
+            "artist": "DECO*27",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20260122",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "e2789c6199c34f12",
+        "title": "[耐]死ぬな！",
+        "type": "UTAGE",
+        "comment": "命はひとつ",
+        "ds": [
+            13.0
+        ],
+        "level": [
+            "13?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    438,
+                    44,
+                    64,
+                    65,
+                    61
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[耐]死ぬな！",
+            "artist": "こっちのけんと",
+            "genre": "宴会場",
+            "bpm": 220,
+            "release_date": "20260122",
             "from": "maimai でらっくす PRiSM",
             "is_new": true,
             "key": ""
