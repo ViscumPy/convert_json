@@ -107187,14 +107187,227 @@
         "comment": "",
         "ds": [
             2.0,
-            6.0,
-            9.6,
-            12.6
+            6.2,
+            9.9,
+            12.9
         ],
         "level": [
             "2",
             "6",
             "9+",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    130,
+                    11,
+                    6,
+                    7,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    211,
+                    18,
+                    8,
+                    11,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    276,
+                    37,
+                    54,
+                    16,
+                    20
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    488,
+                    42,
+                    135,
+                    9,
+                    17
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "ラプラスショコラ",
+            "artist": "Kai",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 130,
+            "release_date": "20260213",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "2dede017b65f838e",
+        "title": "むしみこうにゃーのハッピッピー",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.6,
+            11.0,
+            13.6
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    474,
+                    38,
+                    130,
+                    31,
+                    56
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "むしみこうにゃーのハッピッピー",
+            "artist": "ARM×狐夢想 feat. miko×山本椛",
+            "genre": "東方Project",
+            "bpm": 0,
+            "release_date": "20260220",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "ce668c0f0af605ed",
+        "title": "恋の氷結おてんば湯けむりチルノ温泉",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.6,
+            13.0
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    411,
+                    58,
+                    73,
+                    44,
+                    34
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "恋の氷結おてんば湯けむりチルノ温泉",
+            "artist": "uno×夕野ヨシミ feat. miko",
+            "genre": "東方Project",
+            "bpm": 188,
+            "release_date": "20260220",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "211caf1afd2beb7a",
+        "title": "イタ電はやめて！ ぼくらのスカーレット・コール",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            1.0,
+            5.0,
+            9.0,
+            12.6
+        ],
+        "level": [
+            "1",
+            "5",
+            "9",
             "12+"
         ],
         "cids": [],
@@ -107241,11 +107454,11 @@
             }
         ],
         "basic_info": {
-            "title": "ラプラスショコラ",
-            "artist": "Kai",
-            "genre": "niconico＆ボーカロイド",
+            "title": "イタ電はやめて！ ぼくらのスカーレット・コール",
+            "artist": "七条レタスグループ",
+            "genre": "東方Project",
             "bpm": 0,
-            "release_date": "20260213",
+            "release_date": "20260220",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
             "key": ""
