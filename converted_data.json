@@ -109984,5 +109984,218 @@
             "is_new": false,
             "key": ""
         }
+    },
+    {
+        "id": "1b056d860e5c2f6e",
+        "title": "Myosotis",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            8.6,
+            12.0,
+            14.0
+        ],
+        "level": [
+            "4",
+            "8+",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Myosotis",
+            "artist": "M2U / Arranger : M2U & NICODE / Vocal : Guriri & Lucy",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20260417",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "061d072f922e7c9d",
+        "title": "Nine Point Eight",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            9.6,
+            13.0
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "Nine Point Eight",
+            "artist": "Mili",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20260417",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "d51e7f189023c7e0",
+        "title": "ANiMA",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.0,
+            12.6,
+            14.6
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "ANiMA",
+            "artist": "xi",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 0,
+            "release_date": "20260417",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
     }
 ]
