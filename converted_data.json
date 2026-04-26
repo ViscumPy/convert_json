@@ -109992,9 +109992,9 @@
         "comment": "",
         "ds": [
             4.0,
-            8.6,
+            8.8,
             12.0,
-            14.0
+            14.5
         ],
         "level": [
             "4",
@@ -110006,50 +110006,50 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    151,
+                    12,
+                    9,
+                    14,
+                    6
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    323,
+                    18,
+                    7,
+                    19,
+                    10
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    437,
+                    51,
+                    45,
+                    12,
+                    32
                 ],
-                "charter": ""
+                "charter": "Luxizhel"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    683,
+                    65,
+                    74,
+                    113,
+                    64
                 ],
-                "charter": ""
+                "charter": "サファ太"
             }
         ],
         "basic_info": {
             "title": "Myosotis",
             "artist": "M2U / Arranger : M2U & NICODE / Vocal : Guriri & Lucy",
             "genre": "ゲーム＆バラエティ",
-            "bpm": 0,
+            "bpm": 160,
             "release_date": "20260417",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
@@ -110063,9 +110063,9 @@
         "comment": "",
         "ds": [
             3.0,
-            7.0,
-            9.6,
-            13.0
+            7.2,
+            9.8,
+            13.4
         ],
         "level": [
             "3",
@@ -110077,50 +110077,50 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    136,
+                    11,
+                    4,
+                    20,
+                    6
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    258,
+                    18,
+                    14,
+                    13,
+                    8
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    361,
+                    43,
+                    36,
+                    35,
+                    10
                 ],
-                "charter": ""
+                "charter": "Luxizhel"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    555,
+                    51,
+                    95,
+                    16,
+                    23
                 ],
-                "charter": ""
+                "charter": "Jack"
             }
         ],
         "basic_info": {
             "title": "Nine Point Eight",
             "artist": "Mili",
             "genre": "ゲーム＆バラエティ",
-            "bpm": 0,
+            "bpm": 164,
             "release_date": "20260417",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
@@ -110134,9 +110134,9 @@
         "comment": "",
         "ds": [
             6.0,
-            8.0,
-            12.6,
-            14.6
+            8.5,
+            12.9,
+            14.7
         ],
         "level": [
             "6",
@@ -110148,43 +110148,43 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    167,
+                    9,
+                    4,
+                    15,
+                    9
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    282,
+                    6,
+                    7,
+                    24,
+                    10
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    549,
+                    10,
+                    33,
+                    5,
+                    32
                 ],
-                "charter": ""
+                "charter": "はっぴー"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    622,
+                    47,
+                    67,
+                    97,
+                    111
                 ],
-                "charter": ""
+                "charter": "safazhel"
             }
         ],
         "basic_info": {
