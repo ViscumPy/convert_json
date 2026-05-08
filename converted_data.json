@@ -110219,43 +110219,43 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    160,
+                    13,
+                    4,
+                    6,
+                    3
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    253,
+                    10,
+                    14,
+                    22,
+                    6
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    405,
+                    40,
+                    44,
+                    5,
+                    43
                 ],
-                "charter": ""
+                "charter": "せめんともり"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    534,
+                    16,
+                    112,
+                    29,
+                    41
                 ],
-                "charter": ""
+                "charter": "はっぴー"
             }
         ],
         "basic_info": {
@@ -110290,50 +110290,50 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    129,
+                    11,
+                    4,
+                    11,
+                    7
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    201,
+                    12,
+                    6,
+                    11,
+                    8
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    266,
+                    36,
+                    29,
+                    40,
+                    57
                 ],
-                "charter": ""
+                "charter": "サファ太"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    475,
+                    53,
+                    61,
+                    18,
+                    97
                 ],
-                "charter": ""
+                "charter": "アマリリス"
             }
         ],
         "basic_info": {
             "title": "Operation☆DOTABATA!",
             "artist": "Mitsukiyo「ブルーアーカイブ -Blue Archive-」",
             "genre": "ゲーム＆バラエティ",
-            "bpm": 0,
+            "bpm": 140,
             "release_date": "20260501",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
@@ -110361,50 +110361,50 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    123,
+                    13,
+                    4,
+                    19,
+                    2
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    220,
+                    20,
+                    6,
+                    24,
+                    4
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    302,
+                    60,
+                    29,
+                    27,
+                    9
                 ],
-                "charter": ""
+                "charter": "Luxizhel"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    430,
+                    80,
+                    91,
+                    60,
+                    8
                 ],
-                "charter": ""
+                "charter": "カマボコ君"
             }
         ],
         "basic_info": {
             "title": "Usagi Flap",
             "artist": "Nor「ブルーアーカイブ -Blue Archive-」",
             "genre": "ゲーム＆バラエティ",
-            "bpm": 0,
+            "bpm": 170,
             "release_date": "20260501",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
