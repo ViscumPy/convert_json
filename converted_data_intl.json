@@ -102405,5 +102405,289 @@
             "is_new": true,
             "key": "【需要解禁】"
         }
+    },
+    {
+        "id": "ce26768f1271c875",
+        "title": "勝手に生きましょ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.5,
+            10.4,
+            13.0
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    179,
+                    22,
+                    5,
+                    10,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    333,
+                    20,
+                    15,
+                    28,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    342,
+                    68,
+                    38,
+                    40,
+                    30
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    545,
+                    42,
+                    86,
+                    58,
+                    18
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "勝手に生きましょ",
+            "artist": "しぐれうい",
+            "genre": "POPS＆アニメ",
+            "bpm": 176,
+            "release_date": "20260515",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "299dad20075dc4c4",
+        "title": "うい麦畑でつかまえて",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.8,
+            13.2
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    187,
+                    19,
+                    5,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    309,
+                    16,
+                    11,
+                    26,
+                    15
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    398,
+                    46,
+                    52,
+                    22,
+                    84
+                ],
+                "charter": "おそろっちーぬ"
+            },
+            {
+                "notes": [
+                    653,
+                    56,
+                    127,
+                    59,
+                    74
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "うい麦畑でつかまえて",
+            "artist": "しぐれうい",
+            "genre": "POPS＆アニメ",
+            "bpm": 168,
+            "release_date": "20260515",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "fff8332aea8283cd",
+        "title": "アイアイ傘",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.0,
+            9.7,
+            12.9
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    135,
+                    9,
+                    4,
+                    5,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    230,
+                    8,
+                    7,
+                    13,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    296,
+                    50,
+                    26,
+                    23,
+                    22
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    373,
+                    12,
+                    173,
+                    15,
+                    14
+                ],
+                "charter": "きょむりん & はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "アイアイ傘",
+            "artist": "ハム feat. 雨衣",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 116,
+            "release_date": "20260515",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "48b784c73d0cba6b",
+        "title": "ヤミナベ!!!!",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.5,
+            12.6,
+            14.5
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    253,
+                    15,
+                    4,
+                    13,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    322,
+                    10,
+                    12,
+                    20,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    542,
+                    39,
+                    36,
+                    25,
+                    10
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    661,
+                    121,
+                    80,
+                    40,
+                    100
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ヤミナベ!!!!",
+            "artist": "cosMo＠暴走P",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 0,
+            "release_date": "20260522",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
     }
 ]

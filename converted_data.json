@@ -110432,50 +110432,50 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    178,
+                    17,
+                    8,
+                    28,
+                    8
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    340,
+                    18,
+                    8,
+                    16,
+                    6
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    403,
+                    79,
+                    41,
+                    25,
+                    46
                 ],
-                "charter": ""
+                "charter": "サファ太"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    714,
+                    50,
+                    138,
+                    32,
+                    82
                 ],
-                "charter": ""
+                "charter": "Jack"
             }
         ],
         "basic_info": {
             "title": "クロノイデア",
             "artist": "iDEN LiLY feat.X-Fenriey",
             "genre": "maimai",
-            "bpm": 0,
+            "bpm": 190,
             "release_date": "20260508",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
@@ -110503,6 +110503,396 @@
         "charts": [
             {
                 "notes": [
+                    145,
+                    9,
+                    4,
+                    15,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    229,
+                    16,
+                    6,
+                    13,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    330,
+                    49,
+                    34,
+                    20,
+                    15
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    487,
+                    59,
+                    73,
+                    22,
+                    46
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "STRAY",
+            "artist": "umigame",
+            "genre": "maimai",
+            "bpm": 130,
+            "release_date": "20260508",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "b2e3d6fc3355505c",
+        "title": "オールマスター",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            6.8,
+            11.5,
+            13.3
+        ],
+        "level": [
+            "4",
+            "6",
+            "11",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    127,
+                    16,
+                    8,
+                    6,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    263,
+                    12,
+                    11,
+                    11,
+                    18
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    340,
+                    65,
+                    42,
+                    5,
+                    88
+                ],
+                "charter": "せめんともり"
+            },
+            {
+                "notes": [
+                    603,
+                    59,
+                    96,
+                    68,
+                    31
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "オールマスター",
+            "artist": "大漠波新 feat.ヲタみん",
+            "genre": "maimai",
+            "bpm": 150,
+            "release_date": "20260508",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "a9567047ac19c427",
+        "title": "キスキツネ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.5,
+            10.5,
+            13.8
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    96,
+                    11,
+                    4,
+                    8,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    180,
+                    15,
+                    8,
+                    29,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    278,
+                    47,
+                    31,
+                    5,
+                    40
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    508,
+                    103,
+                    78,
+                    15,
+                    62
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "キスキツネ",
+            "artist": "HIMEHINA",
+            "genre": "POPS＆アニメ",
+            "bpm": 148,
+            "release_date": "20260514",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "17b2fa631b0824d7",
+        "title": "うたかたよいかないで",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.0,
+            13.2
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    188,
+                    13,
+                    6,
+                    14,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    375,
+                    18,
+                    11,
+                    25,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    479,
+                    52,
+                    36,
+                    13,
+                    34
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    548,
+                    39,
+                    118,
+                    72,
+                    97
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "うたかたよいかないで",
+            "artist": "HIMEHINA",
+            "genre": "POPS＆アニメ",
+            "bpm": 166,
+            "release_date": "20260514",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "264d51b84676ad67",
+        "title": "[音]愛包ダンスホール",
+        "type": "UTAGE",
+        "comment": "～音取りほぼMAXバージョン～",
+        "ds": [
+            13.6
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[音]愛包ダンスホール",
+            "artist": "HIMEHINA",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20260514",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "b873005e6463213c",
+        "title": "WWW",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.5,
+            10.7,
+            13.4
+        ],
+        "level": [
+            "2",
+            "6",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    90,
+                    8,
+                    3,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    193,
+                    4,
+                    6,
+                    11,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    206,
+                    43,
+                    23,
+                    16,
+                    34
+                ],
+                "charter": "おそろっちーぬ"
+            },
+            {
+                "notes": [
+                    402,
+                    24,
+                    65,
+                    10,
+                    41
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "WWW",
+            "artist": "HIMEHINA",
+            "genre": "POPS＆アニメ",
+            "bpm": 146,
+            "release_date": "20260514",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "c395d1612b386275",
+        "title": "3rd Avenue",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.0,
+            11.0,
+            13.6
+        ],
+        "level": [
+            "3",
+            "6",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
                     0,
                     0,
                     0,
@@ -110543,31 +110933,31 @@
             }
         ],
         "basic_info": {
-            "title": "STRAY",
-            "artist": "umigame",
-            "genre": "maimai",
+            "title": "3rd Avenue",
+            "artist": "Sound Souler",
+            "genre": "ゲーム＆バラエティ",
             "bpm": 0,
-            "release_date": "20260508",
+            "release_date": "20260529",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
             "key": ""
         }
     },
     {
-        "id": "b2e3d6fc3355505c",
-        "title": "オールマスター",
+        "id": "6e9ddddad4547a5c",
+        "title": "Intergalactic Bound",
         "type": "DX",
         "comment": "",
         "ds": [
-            4.0,
-            6.8,
-            11.5,
-            13.3
+            2.0,
+            6.0,
+            10.0,
+            13.0
         ],
         "level": [
-            "4",
+            "2",
             "6",
-            "11",
+            "10",
             "13"
         ],
         "cids": [],
@@ -110614,11 +111004,164 @@
             }
         ],
         "basic_info": {
-            "title": "オールマスター",
-            "artist": "大漠波新 feat.ヲタみん",
-            "genre": "maimai",
+            "title": "Intergalactic Bound",
+            "artist": "Yunosuke / CircusP",
+            "genre": "niconico＆ボーカロイド",
             "bpm": 0,
-            "release_date": "20260508",
+            "release_date": "20260529",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "bb049831e2c0b573",
+        "title": "[即]Straight into the lights",
+        "type": "UTAGE",
+        "comment": "ごめんなさい、今は急がないと",
+        "ds": [
+            14.6
+        ],
+        "level": [
+            "14+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[即]Straight into the lights",
+            "artist": "Cosmograph",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20260529",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "4231978adaae3582",
+        "title": "LEMON MELON COOKIE",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.6,
+            11.6,
+            13.0
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "11+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "緑風犬三郎"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "LEMON MELON COOKIE",
+            "artist": "TAK",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 0,
+            "release_date": "20260529",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "c395d1612b386275",
+        "title": "[覚]3rd Avenue",
+        "type": "UTAGE",
+        "comment": "Mai Dimension",
+        "ds": [
+            12.0
+        ],
+        "level": [
+            "12?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[覚]3rd Avenue",
+            "artist": "Sound Souler",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20260529",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
             "key": ""
