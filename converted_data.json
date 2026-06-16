@@ -30516,6 +30516,77 @@
         }
     },
     {
+        "id": "10617",
+        "title": "オトヒメモリー☆ウタゲーション",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.2,
+            10.0,
+            13.4
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    152,
+                    10,
+                    4,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    250,
+                    8,
+                    6,
+                    26,
+                    16
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    284,
+                    52,
+                    45,
+                    19,
+                    79
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    544,
+                    53,
+                    108,
+                    31,
+                    46
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "オトヒメモリー☆ウタゲーション",
+            "artist": "Junky feat. 乙姫(CV:浅川悠)",
+            "genre": "maimai",
+            "bpm": 140,
+            "release_date": "20260612",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
         "id": "618",
         "title": "ラブチーノ",
         "type": "SD",
@@ -110879,7 +110950,7 @@
         "comment": "",
         "ds": [
             3.0,
-            6.0,
+            6.8,
             11.0,
             13.6
         ],
@@ -110893,50 +110964,50 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    179,
+                    9,
+                    4,
+                    6,
+                    7
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    238,
+                    12,
+                    8,
+                    26,
+                    16
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    286,
+                    114,
+                    52,
+                    23,
+                    47
                 ],
-                "charter": ""
+                "charter": "サファ太"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    439,
+                    86,
+                    75,
+                    129,
+                    38
                 ],
-                "charter": ""
+                "charter": "Luxizhel"
             }
         ],
         "basic_info": {
             "title": "3rd Avenue",
             "artist": "Sound Souler",
             "genre": "ゲーム＆バラエティ",
-            "bpm": 0,
+            "bpm": 130,
             "release_date": "20260529",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
@@ -110950,9 +111021,9 @@
         "comment": "",
         "ds": [
             2.0,
-            6.0,
-            10.0,
-            13.0
+            6.5,
+            10.5,
+            13.1
         ],
         "level": [
             "2",
@@ -110964,50 +111035,50 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    122,
+                    11,
+                    4,
+                    15,
+                    4
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    201,
+                    12,
+                    11,
+                    26,
+                    17
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    296,
+                    36,
+                    36,
+                    21,
+                    30
                 ],
-                "charter": ""
+                "charter": "Luxizhel"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    379,
+                    72,
+                    96,
+                    9,
+                    50
                 ],
-                "charter": ""
+                "charter": "ロシェ@ペンギン"
             }
         ],
         "basic_info": {
             "title": "Intergalactic Bound",
             "artist": "Yunosuke / CircusP",
             "genre": "niconico＆ボーカロイド",
-            "bpm": 0,
+            "bpm": 140,
             "release_date": "20260529",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
@@ -111056,10 +111127,10 @@
         "comment": "",
         "ds": [
             3.0,
-            7.0,
-            10.6,
-            11.6,
-            13.0
+            7.5,
+            10.8,
+            11.7,
+            13.3
         ],
         "level": [
             "3",
@@ -111067,6 +111138,122 @@
             "10+",
             "11+",
             "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    198,
+                    10,
+                    4,
+                    12,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    309,
+                    26,
+                    12,
+                    25,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    344,
+                    62,
+                    27,
+                    33,
+                    46
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    344,
+                    139,
+                    76,
+                    24,
+                    22
+                ],
+                "charter": "緑風犬三郎"
+            },
+            {
+                "notes": [
+                    401,
+                    98,
+                    115,
+                    79,
+                    22
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "LEMON MELON COOKIE",
+            "artist": "TAK",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 180,
+            "release_date": "20260529",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "c395d1612b386275",
+        "title": "[覚]3rd Avenue",
+        "type": "UTAGE",
+        "comment": "Mai Dimension",
+        "ds": [
+            12.0
+        ],
+        "level": [
+            "12?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    70,
+                    41,
+                    18,
+                    172,
+                    16
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[覚]3rd Avenue",
+            "artist": "Sound Souler",
+            "genre": "宴会場",
+            "bpm": 130,
+            "release_date": "20260529",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "ea4cd9df410fa1b0",
+        "title": "RONDØ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.0,
+            12.8,
+            14.5
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
         ],
         "cids": [],
         "charts": [
@@ -111108,60 +111295,228 @@
                     0,
                     0
                 ],
-                "charter": "緑風犬三郎"
-            },
-            {
-                "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "charter": "カマボコ君"
+                "charter": "Luxizhel"
             }
         ],
         "basic_info": {
-            "title": "LEMON MELON COOKIE",
-            "artist": "TAK",
-            "genre": "niconico＆ボーカロイド",
-            "bpm": 0,
-            "release_date": "20260529",
+            "title": "RONDØ",
+            "artist": "Ashrount",
+            "genre": "maimai",
+            "bpm": 314,
+            "release_date": "20260612",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
             "key": ""
         }
     },
     {
-        "id": "c395d1612b386275",
-        "title": "[覚]3rd Avenue",
-        "type": "UTAGE",
-        "comment": "Mai Dimension",
+        "id": "7cf6656cbbd95701",
+        "title": "TAKE CONTROL",
+        "type": "DX",
+        "comment": "",
         "ds": [
-            12.0
+            4.0,
+            6.5,
+            11.8,
+            13.9
         ],
         "level": [
-            "12?"
+            "4",
+            "6",
+            "11+",
+            "13+"
         ],
         "cids": [],
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    177,
+                    13,
+                    6,
+                    7,
+                    15
                 ],
                 "charter": "-"
+            },
+            {
+                "notes": [
+                    285,
+                    16,
+                    10,
+                    22,
+                    17
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    442,
+                    80,
+                    44,
+                    76,
+                    16
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    508,
+                    79,
+                    85,
+                    118,
+                    171
+                ],
+                "charter": "Safazhel"
             }
         ],
         "basic_info": {
-            "title": "[覚]3rd Avenue",
-            "artist": "Sound Souler",
-            "genre": "宴会場",
-            "bpm": 0,
-            "release_date": "20260529",
+            "title": "TAKE CONTROL",
+            "artist": "ryhki",
+            "genre": "maimai",
+            "bpm": 162,
+            "release_date": "20260612",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "d924d8b85c4655cc",
+        "title": "Paradoxical Empress",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.2,
+            11.5,
+            13.9
+        ],
+        "level": [
+            "4",
+            "7",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    178,
+                    11,
+                    6,
+                    22,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    275,
+                    14,
+                    10,
+                    24,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    426,
+                    102,
+                    58,
+                    13,
+                    21
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    550,
+                    88,
+                    74,
+                    76,
+                    81
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Paradoxical Empress",
+            "artist": "polysha",
+            "genre": "maimai",
+            "bpm": 185,
+            "release_date": "20260612",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "9db4ea8b086f5765",
+        "title": "HyperdrivE",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.8,
+            11.0,
+            13.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    174,
+                    8,
+                    6,
+                    8,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    271,
+                    19,
+                    4,
+                    27,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    307,
+                    44,
+                    41,
+                    36,
+                    48
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    594,
+                    41,
+                    117,
+                    37,
+                    42
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "HyperdrivE",
+            "artist": "KARUT",
+            "genre": "maimai",
+            "bpm": 174,
+            "release_date": "20260612",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
             "key": ""
