@@ -111259,41 +111259,41 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    215,
+                    11,
+                    8,
+                    15,
+                    11
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    335,
+                    14,
+                    8,
+                    11,
+                    8
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    462,
+                    85,
+                    32,
+                    46,
+                    84
                 ],
                 "charter": "サファ太"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    690,
+                    103,
+                    64,
+                    86,
+                    55
                 ],
                 "charter": "Luxizhel"
             }
@@ -111517,6 +111517,1011 @@
             "genre": "maimai",
             "bpm": 174,
             "release_date": "20260612",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "0847c38d2a623e99",
+        "title": "[招]Re:Unknown X",
+        "type": "UTAGE",
+        "comment": "LUNATIC X",
+        "ds": [
+            14.6
+        ],
+        "level": [
+            "14+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[招]Re:Unknown X",
+            "artist": "まらしぃ",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20260626",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "5c5ae698a3ca6825",
+        "title": "[奏]悪戯センセーション",
+        "type": "UTAGE",
+        "comment": "二人で一つなの クランベリー",
+        "ds": [
+            13.0,
+            13.0
+        ],
+        "level": [
+            "13?",
+            "13?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[奏]悪戯センセーション",
+            "artist": "森羅万象",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20260626",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "d352008e0f49d5d9",
+        "title": "デンデラパーティーナイト",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            10.7,
+            13.4
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    170,
+                    9,
+                    7,
+                    17,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    345,
+                    12,
+                    9,
+                    28,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    404,
+                    74,
+                    27,
+                    8,
+                    33
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    485,
+                    47,
+                    82,
+                    76,
+                    113
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "デンデラパーティーナイト",
+            "artist": "森羅万象",
+            "genre": "東方Project",
+            "bpm": 181,
+            "release_date": "20260626",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "9d139b8426001293",
+        "title": "純情アルメリア",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.5,
+            10.7,
+            13.3
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    169,
+                    12,
+                    5,
+                    12,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    288,
+                    17,
+                    7,
+                    34,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    408,
+                    56,
+                    29,
+                    9,
+                    35
+                ],
+                "charter": "せめんともり"
+            },
+            {
+                "notes": [
+                    572,
+                    56,
+                    144,
+                    10,
+                    31
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "純情アルメリア",
+            "artist": "森羅万象",
+            "genre": "東方Project",
+            "bpm": 175,
+            "release_date": "20260626",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "26721fc25e2f9f91",
+        "title": "運命線上のアリア",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            10.8,
+            13.6
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    199,
+                    9,
+                    6,
+                    11,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    361,
+                    16,
+                    10,
+                    26,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    503,
+                    38,
+                    35,
+                    27,
+                    30
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    642,
+                    48,
+                    120,
+                    11,
+                    67
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "運命線上のアリア",
+            "artist": "森羅万象",
+            "genre": "東方Project",
+            "bpm": 185,
+            "release_date": "20260626",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "3d2dcf5c55d4e855",
+        "title": "Absolute Queen",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.2,
+            12.8,
+            14.2
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    170,
+                    9,
+                    5,
+                    13,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    315,
+                    20,
+                    13,
+                    13,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    411,
+                    72,
+                    55,
+                    34,
+                    21
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    528,
+                    85,
+                    105,
+                    90,
+                    45
+                ],
+                "charter": "せめんともり"
+            }
+        ],
+        "basic_info": {
+            "title": "Absolute Queen",
+            "artist": "Laur",
+            "genre": "東方Project",
+            "bpm": 220,
+            "release_date": "20260626",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "94961d3405db1230",
+        "title": "Here the Our MIRAI!",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.7,
+            11.4,
+            13.2
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    151,
+                    18,
+                    9,
+                    19,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    275,
+                    22,
+                    10,
+                    11,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    342,
+                    80,
+                    44,
+                    10,
+                    40
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    523,
+                    46,
+                    112,
+                    34,
+                    51
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Here the Our MIRAI!",
+            "artist": "イロドリミドリ",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 190,
+            "release_date": "20260702",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "0f7aff2eb3425949",
+        "title": "歌え踊れや桃源郷！",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.6,
+            10.8,
+            13.4
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    396,
+                    45,
+                    37,
+                    34,
+                    38
+                ],
+                "charter": "まぐランド"
+            },
+            {
+                "notes": [
+                    617,
+                    34,
+                    153,
+                    28,
+                    45
+                ],
+                "charter": "せめんともり"
+            }
+        ],
+        "basic_info": {
+            "title": "歌え踊れや桃源郷！",
+            "artist": "karato feat.yuno",
+            "genre": "maimai",
+            "bpm": 178,
+            "release_date": "20260702",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "7ca1e931100a97a7",
+        "title": "私たちは、花になる",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            7.2,
+            10.7,
+            13.6
+        ],
+        "level": [
+            "2",
+            "7",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    153,
+                    11,
+                    11,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    282,
+                    22,
+                    12,
+                    24,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    368,
+                    32,
+                    50,
+                    35,
+                    44
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    577,
+                    33,
+                    72,
+                    92,
+                    33
+                ],
+                "charter": "Get Our MIRAI!!!!!!!!!!!!!!"
+            }
+        ],
+        "basic_info": {
+            "title": "私たちは、花になる",
+            "artist": "イロドリミドリ｜HaNaMiNa｜S.S.L.",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 168,
+            "release_date": "20260702",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "e983556daa1209a7",
+        "title": "色彩過剰のダイアリーミュージック",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.0,
+            12.7,
+            14.1
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    206,
+                    18,
+                    11,
+                    10,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    296,
+                    11,
+                    11,
+                    15,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    453,
+                    102,
+                    46,
+                    46,
+                    35
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    876,
+                    67,
+                    64,
+                    102,
+                    77
+                ],
+                "charter": "ロシェ＠ペンギン"
+            }
+        ],
+        "basic_info": {
+            "title": "色彩過剰のダイアリーミュージック",
+            "artist": "イロドリミドリ",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 136,
+            "release_date": "20260702",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "a152c59b2154f085",
+        "title": "シスターに懺悔を",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.6,
+            13.3
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    157,
+                    9,
+                    4,
+                    20,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    282,
+                    18,
+                    6,
+                    30,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    290,
+                    61,
+                    32,
+                    25,
+                    43
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    506,
+                    54,
+                    125,
+                    43,
+                    15
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "シスターに懺悔を",
+            "artist": "廃原メモリ",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 165,
+            "release_date": "20260717",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "a811403363de238f",
+        "title": "2代目閻魔",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.2,
+            10.0,
+            13.6
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    134,
+                    9,
+                    4,
+                    7,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    274,
+                    12,
+                    6,
+                    13,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    331,
+                    33,
+                    46,
+                    16,
+                    51
+                ],
+                "charter": "せめんともり"
+            },
+            {
+                "notes": [
+                    620,
+                    18,
+                    89,
+                    102,
+                    35
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "2代目閻魔",
+            "artist": "読谷あかね",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 135,
+            "release_date": "20260717",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "d696ede5d69835d1",
+        "title": "イレギュラーマン",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            7.7,
+            11.0,
+            13.9
+        ],
+        "level": [
+            "5",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    240,
+                    10,
+                    4,
+                    12,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    353,
+                    16,
+                    8,
+                    13,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    411,
+                    102,
+                    40,
+                    24,
+                    52
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    562,
+                    35,
+                    204,
+                    99,
+                    132
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "イレギュラーマン",
+            "artist": "マサラダ",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 201,
+            "release_date": "20260717",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "6c783c45faac031c",
+        "title": "ちっちゃな私",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.2,
+            9.7,
+            12.9
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    141,
+                    18,
+                    4,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    233,
+                    19,
+                    6,
+                    14,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    276,
+                    73,
+                    22,
+                    5,
+                    13
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    380,
+                    54,
+                    64,
+                    98,
+                    53
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ちっちゃな私",
+            "artist": "マサラダ",
+            "genre": "niconico＆ボーカロイド",
+            "bpm": 143,
+            "release_date": "20260717",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "c4ec76bb151017b2",
+        "title": "Cryogenic",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            11.4,
+            13.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    117,
+                    17,
+                    5,
+                    8,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    263,
+                    16,
+                    8,
+                    11,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    304,
+                    44,
+                    40,
+                    18,
+                    13
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    439,
+                    84,
+                    84,
+                    69,
+                    64
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "Cryogenic",
+            "artist": "Camellia ft. Petra Gurin「In Falsus」",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 145,
+            "release_date": "20260717",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
             "key": ""

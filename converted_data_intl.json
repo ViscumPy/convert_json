@@ -103366,5 +103366,502 @@
             "is_new": true,
             "key": "【需要解禁】"
         }
+    },
+    {
+        "id": "211caf1afd2beb7a",
+        "title": "イタ電はやめて！ ぼくらのスカーレット・コール",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            1.0,
+            5.8,
+            9.0,
+            12.8
+        ],
+        "level": [
+            "1",
+            "5",
+            "9",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    92,
+                    13,
+                    4,
+                    11,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    184,
+                    14,
+                    6,
+                    26,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    217,
+                    42,
+                    37,
+                    10,
+                    49
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    297,
+                    15,
+                    54,
+                    744,
+                    29
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "イタ電はやめて！ ぼくらのスカーレット・コール",
+            "artist": "七条レタスグループ",
+            "genre": "東方Project",
+            "bpm": 112,
+            "release_date": "20260626",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "ce668c0f0af605ed",
+        "title": "恋の氷結おてんば湯けむりチルノ温泉",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.2,
+            10.7,
+            13.3
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    109,
+                    9,
+                    6,
+                    13,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    216,
+                    12,
+                    5,
+                    7,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    243,
+                    43,
+                    43,
+                    18,
+                    18
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    411,
+                    58,
+                    73,
+                    44,
+                    34
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "恋の氷結おてんば湯けむりチルノ温泉",
+            "artist": "uno×夕野ヨシミ feat. miko",
+            "genre": "東方Project",
+            "bpm": 188,
+            "release_date": "20260626",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "2dede017b65f838e",
+        "title": "むしみこうにゃーのハッピッピー",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.7,
+            11.0,
+            13.6
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    139,
+                    14,
+                    4,
+                    9,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    239,
+                    17,
+                    8,
+                    11,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    315,
+                    75,
+                    16,
+                    10,
+                    95
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    474,
+                    38,
+                    130,
+                    31,
+                    56
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "むしみこうにゃーのハッピッピー",
+            "artist": "ARM×狐夢想 feat. miko×山本椛",
+            "genre": "東方Project",
+            "bpm": 225,
+            "release_date": "20260626",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "441cfe6d94175558",
+        "title": "give it up to you",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.7,
+            13.2
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    167,
+                    9,
+                    4,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    248,
+                    12,
+                    6,
+                    24,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    290,
+                    58,
+                    31,
+                    23,
+                    31
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    454,
+                    37,
+                    88,
+                    31,
+                    24
+                ],
+                "charter": "せめんともり"
+            }
+        ],
+        "basic_info": {
+            "title": "give it up to you",
+            "artist": "曲：中土智博／歌：bitter flavor [桜井 春菜(CV：近藤 玲奈)、早乙女 彩華(CV：中島 唯)]",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 174,
+            "release_date": "20260710",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "49d875aca59e2dbc",
+        "title": "WakeUP MakeUP FEVER!",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.2,
+            10.0,
+            13.3
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    136,
+                    17,
+                    2,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    236,
+                    12,
+                    10,
+                    26,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    363,
+                    30,
+                    40,
+                    27,
+                    41
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    549,
+                    73,
+                    96,
+                    96,
+                    73
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "WakeUP MakeUP FEVER!",
+            "artist": "曲：アオワイファイ／歌：オンゲキシューターズ",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 126,
+            "release_date": "20260710",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "a1cf29dd6fd3c707",
+        "title": "ICEBURN",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            8.0,
+            11.5,
+            13.8
+        ],
+        "level": [
+            "4",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    182,
+                    12,
+                    10,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    363,
+                    15,
+                    10,
+                    10,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    345,
+                    59,
+                    46,
+                    16,
+                    81
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    603,
+                    43,
+                    125,
+                    76,
+                    28
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "ICEBURN",
+            "artist": "Srav3R",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 190,
+            "release_date": "20260710",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "ecf6ef747128387c",
+        "title": "Daredevil Glaive",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            7.8,
+            11.8,
+            14.2
+        ],
+        "level": [
+            "5",
+            "7+",
+            "11+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    203,
+                    11,
+                    6,
+                    20,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    320,
+                    14,
+                    7,
+                    24,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    371,
+                    72,
+                    70,
+                    48,
+                    31
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    690,
+                    69,
+                    68,
+                    78,
+                    99
+                ],
+                "charter": "サファ太 & メロンポップ"
+            }
+        ],
+        "basic_info": {
+            "title": "Daredevil Glaive",
+            "artist": "Artifact",
+            "genre": "オンゲキ＆CHUNITHM",
+            "bpm": 185,
+            "release_date": "20260710",
+            "from": "maimai でらっくす PRiSM",
+            "is_new": true,
+            "key": ""
+        }
     }
 ]
