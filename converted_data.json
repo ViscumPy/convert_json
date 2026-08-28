@@ -12970,6 +12970,77 @@
         }
     },
     {
+        "id": "10267",
+        "title": "Ignite Infinity",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            10.2,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    93,
+                    11,
+                    4,
+                    7,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    173,
+                    15,
+                    4,
+                    14,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    212,
+                    42,
+                    28,
+                    5,
+                    29
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    317,
+                    42,
+                    82,
+                    55,
+                    25
+                ],
+                "charter": "メロンポップ"
+            }
+        ],
+        "basic_info": {
+            "title": "Ignite Infinity",
+            "artist": "「PHANTASY STAR PORTABLE2 ∞」",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 160,
+            "release_date": "20260805",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
         "id": "268",
         "title": "トルコ行進曲 - オワタ＼(^o^)／",
         "type": "SD",
@@ -82164,89 +82235,6 @@
         }
     },
     {
-        "id": "11634",
-        "title": "青春コンプレックス",
-        "type": "DX",
-        "comment": "",
-        "ds": [
-            3.0,
-            7.0,
-            10.0,
-            11.8,
-            13.8
-        ],
-        "level": [
-            "3",
-            "7",
-            "10",
-            "11+",
-            "13+"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    143,
-                    13,
-                    6,
-                    13,
-                    7
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    278,
-                    12,
-                    14,
-                    16,
-                    5
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    414,
-                    76,
-                    84,
-                    25,
-                    27
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    532,
-                    49,
-                    121,
-                    23,
-                    98
-                ],
-                "charter": "緑風 犬三郎"
-            },
-            {
-                "notes": [
-                    708,
-                    45,
-                    119,
-                    35,
-                    54
-                ],
-                "charter": "鳩ホルダー"
-            }
-        ],
-        "basic_info": {
-            "title": "青春コンプレックス",
-            "artist": "結束バンド",
-            "genre": "POPS＆アニメ",
-            "bpm": 190,
-            "release_date": "20230914",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
         "id": "11636",
         "title": "さくゆいたいそう",
         "type": "DX",
@@ -82821,77 +82809,6 @@
             "genre": "ゲーム＆バラエティ",
             "bpm": 203,
             "release_date": "20231110",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": "11644",
-        "title": "story",
-        "type": "DX",
-        "comment": "",
-        "ds": [
-            3.0,
-            7.7,
-            10.8,
-            12.2
-        ],
-        "level": [
-            "3",
-            "7+",
-            "10+",
-            "12"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    73,
-                    12,
-                    2,
-                    7,
-                    1
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    174,
-                    20,
-                    6,
-                    14,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    258,
-                    34,
-                    44,
-                    9,
-                    27
-                ],
-                "charter": "鳩ホルダー"
-            },
-            {
-                "notes": [
-                    352,
-                    19,
-                    66,
-                    30,
-                    24
-                ],
-                "charter": "PG-NAKAGAWA"
-            }
-        ],
-        "basic_info": {
-            "title": "story",
-            "artist": "前島麻由",
-            "genre": "POPS＆アニメ",
-            "bpm": 220,
-            "release_date": "20231124",
             "from": "maimai でらっくす BUDDiES",
             "is_new": false,
             "key": ""
@@ -83996,100 +83913,6 @@
             "artist": "稲葉曇",
             "genre": "宴会場",
             "bpm": 147,
-            "release_date": "20230914",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": "111634",
-        "title": "[協]青春コンプレックス",
-        "type": "UTAGE",
-        "comment": "バンドメンバーを集めて挑め！（ヒーロー級）",
-        "ds": [
-            14.6,
-            14.6
-        ],
-        "level": [
-            "14+?",
-            "14+?"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    1435,
-                    111,
-                    11,
-                    77,
-                    145
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    1421,
-                    221,
-                    20,
-                    68,
-                    60
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[協]青春コンプレックス",
-            "artist": "結束バンド",
-            "genre": "宴会場",
-            "bpm": 190,
-            "release_date": "20230914",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": "121634",
-        "title": "[協]青春コンプレックス",
-        "type": "UTAGE",
-        "comment": "バンドメンバーを集めて楽しもう！（入門編）",
-        "ds": [
-            13.0,
-            13.0
-        ],
-        "level": [
-            "13?",
-            "13?"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    1197,
-                    105,
-                    4,
-                    13,
-                    130
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    978,
-                    219,
-                    26,
-                    13,
-                    71
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[協]青春コンプレックス",
-            "artist": "結束バンド",
-            "genre": "宴会場",
-            "bpm": 190,
             "release_date": "20230914",
             "from": "maimai でらっくす BUDDiES",
             "is_new": false,
@@ -111980,21 +111803,21 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    195,
+                    11,
+                    4,
+                    14,
+                    9
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    347,
+                    12,
+                    6,
+                    10,
+                    6
                 ],
                 "charter": "-"
             },
@@ -112522,6 +112345,727 @@
             "genre": "ゲーム＆バラエティ",
             "bpm": 145,
             "release_date": "20260717",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "57c8a97552b29815",
+        "title": "[音]インドア系ならトラックメイカー",
+        "type": "UTAGE",
+        "comment": "～音取りほぼMAXバージョン～",
+        "ds": [
+            14.6
+        ],
+        "level": [
+            "14+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[音]インドア系ならトラックメイカー",
+            "artist": "Yunomi & nicamoq",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20260731",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "b86ade7b7a1d8acc",
+        "title": "ボックスワンターバ〜ン",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.2,
+            10.0,
+            13.8
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "ボックスワンターバ〜ン",
+            "artist": "ぼくわたチャンネル",
+            "genre": "POPS＆アニメ",
+            "bpm": 0,
+            "release_date": "20260804",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "b86ade7b7a1d8acc",
+        "title": "[僕]ボックスワンターバ〜ン",
+        "type": "UTAGE",
+        "comment": "コインを入れてランラン楽しいド派手なリズムゲーム 麻衣摩維DX",
+        "ds": [
+            14.0,
+            14.0
+        ],
+        "level": [
+            "14?",
+            "14?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[僕]ボックスワンターバ〜ン",
+            "artist": "ぼくわたチャンネル",
+            "genre": "宴会場",
+            "bpm": 0,
+            "release_date": "20260731",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "dbbf4e81e83ee2e7",
+        "title": "Story Continued",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            6.8,
+            10.8,
+            13.2
+        ],
+        "level": [
+            "4",
+            "6",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    163,
+                    16,
+                    4,
+                    13,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    260,
+                    22,
+                    11,
+                    7,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    311,
+                    56,
+                    48,
+                    20,
+                    31
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    428,
+                    43,
+                    79,
+                    70,
+                    37
+                ],
+                "charter": "けんけん法師"
+            }
+        ],
+        "basic_info": {
+            "title": "Story Continued",
+            "artist": "ユアミトス",
+            "genre": "maimai",
+            "bpm": 170,
+            "release_date": "20260807",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "7f778957dc743693",
+        "title": "終幕の傀儡",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            8.2,
+            12.8,
+            14.3
+        ],
+        "level": [
+            "4",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    210,
+                    9,
+                    7,
+                    12,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    345,
+                    11,
+                    9,
+                    13,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    373,
+                    58,
+                    45,
+                    43,
+                    128
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    630,
+                    66,
+                    97,
+                    24,
+                    87
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "終幕の傀儡",
+            "artist": "RB.H × lixound × 薛南",
+            "genre": "maimai",
+            "bpm": 200,
+            "release_date": "20260807",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "774cf029bb5a3469",
+        "title": "Aegisfortia",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            9.0,
+            12.7,
+            14.8
+        ],
+        "level": [
+            "6",
+            "9",
+            "12+",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    270,
+                    11,
+                    4,
+                    7,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    359,
+                    14,
+                    15,
+                    11,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    443,
+                    68,
+                    54,
+                    13,
+                    25
+                ],
+                "charter": "発光ピーバー"
+            },
+            {
+                "notes": [
+                    715,
+                    58,
+                    86,
+                    80,
+                    135
+                ],
+                "charter": "Cement Forest"
+            }
+        ],
+        "basic_info": {
+            "title": "Aegisfortia",
+            "artist": "お月さま交響曲",
+            "genre": "maimai",
+            "bpm": 238,
+            "release_date": "20260807",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "5dafa376938d9b17",
+        "title": "SERAPHIC SYNDROME",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.0,
+            12.2,
+            14.2
+        ],
+        "level": [
+            "6",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    199,
+                    26,
+                    8,
+                    21,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    338,
+                    21,
+                    9,
+                    21,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    424,
+                    60,
+                    63,
+                    27,
+                    53
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    758,
+                    61,
+                    87,
+                    63,
+                    70
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "SERAPHIC SYNDROME",
+            "artist": "堀田英邦",
+            "genre": "maimai",
+            "bpm": 216,
+            "release_date": "20260807",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "0db5f376fe40a376",
+        "title": "Inverted World",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.5,
+            11.8,
+            14.1
+        ],
+        "level": [
+            "4",
+            "7",
+            "11+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    167,
+                    9,
+                    5,
+                    20,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    289,
+                    14,
+                    6,
+                    22,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    396,
+                    43,
+                    47,
+                    38,
+                    14
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    621,
+                    60,
+                    48,
+                    83,
+                    42
+                ],
+                "charter": "けんけん法師"
+            }
+        ],
+        "basic_info": {
+            "title": "Inverted World",
+            "artist": "ARForest",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 180,
+            "release_date": "20260821",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "0757236de4820023",
+        "title": "無彩色のディストピア",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            10.8,
+            13.4
+        ],
+        "level": [
+            "3",
+            "6",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    166,
+                    13,
+                    5,
+                    11,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    236,
+                    11,
+                    9,
+                    27,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    383,
+                    56,
+                    60,
+                    12,
+                    36
+                ],
+                "charter": "カマボコ君"
+            },
+            {
+                "notes": [
+                    548,
+                    20,
+                    111,
+                    32,
+                    43
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "無彩色のディストピア",
+            "artist": "HyuN feat. ウォルピスカーター",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 183,
+            "release_date": "20260821",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "8390593148dae09c",
+        "title": "Broomstick adventure!",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            6.9,
+            10.9,
+            13.6
+        ],
+        "level": [
+            "4",
+            "6",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    169,
+                    14,
+                    4,
+                    8,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    316,
+                    17,
+                    5,
+                    12,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    409,
+                    59,
+                    24,
+                    6,
+                    36
+                ],
+                "charter": "けんけん法師"
+            },
+            {
+                "notes": [
+                    517,
+                    41,
+                    84,
+                    70,
+                    46
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Broomstick adventure!",
+            "artist": "しーけー",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 180,
+            "release_date": "20260821",
+            "from": "maimai でらっくす RECODE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "17ae689c209fa74f",
+        "title": "Manifold Hypothesis",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.7,
+            11.2,
+            13.9
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    180,
+                    9,
+                    5,
+                    20,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    342,
+                    18,
+                    8,
+                    11,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    293,
+                    75,
+                    38,
+                    20,
+                    70
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    665,
+                    40,
+                    108,
+                    45,
+                    42
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Manifold Hypothesis",
+            "artist": "cybermiso feat. tigerlily",
+            "genre": "ゲーム＆バラエティ",
+            "bpm": 174,
+            "release_date": "20260821",
             "from": "maimai でらっくす RECODE",
             "is_new": false,
             "key": ""
